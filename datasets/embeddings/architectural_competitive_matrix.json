@@ -1,0 +1,26 @@
+[
+    {
+        "Architecture": "ARK-KERNEL v70.5",
+        "Logic Base": 441,
+        "Gates/Nodes": 231,
+        "Efficiency Index (%)": 1300000,
+        "Accuracy Peak": 2.502,
+        "Logic Density": 1.9090909090909092
+    },
+    {
+        "Architecture": "Microservices",
+        "Logic Base": 100,
+        "Gates/Nodes": 50,
+        "Efficiency Index (%)": 45,
+        "Accuracy Peak": 0.85,
+        "Logic Density": 2.0
+    },
+    {
+        "Architecture": "Agentic Workflows",
+        "Logic Base": 250,
+        "Gates/Nodes": 120,
+        "Efficiency Index (%)": 75,
+        "Accuracy Peak": 1.2,
+        "Logic Density": 2.0833333333333335
+    }
+]
