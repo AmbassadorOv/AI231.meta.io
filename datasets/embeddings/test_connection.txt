@@ -1,0 +1,1 @@
+Connection test for ARK-KERNEL v64.
