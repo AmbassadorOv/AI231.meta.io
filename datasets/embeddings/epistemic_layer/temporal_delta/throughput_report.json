@@ -1,0 +1,6 @@
+{
+    "total_cycles": 1000,
+    "duration_sec": 0.0,
+    "throughput_coefficient": 4.0,
+    "status": "SATURATION_COMPLETE"
+}
