@@ -1,0 +1,1163 @@
+{
+    "identity": "TEMPORAL_SEMANTIC_ANALYSIS_V705",
+    "timestamp": "2026-03-10T11:28:59.920479",
+    "scale_of_time_index": 1.0,
+    "gate_mapping": {
+        "1": {
+            "modern_task": "Undefined",
+            "historical_perception": "Categorical Syllogism: Standard Aristotelian deduction mapping.",
+            "shift_score": 1.0
+        },
+        "2": {
+            "modern_task": "Undefined",
+            "historical_perception": "Hypothetical Syllogism: Conditional logic and consequence mapping.",
+            "shift_score": 1.0
+        },
+        "3": {
+            "modern_task": "Undefined",
+            "historical_perception": "Disjunctive Syllogism: Alternative and exclusionary logical mapping.",
+            "shift_score": 1.0
+        },
+        "4": {
+            "modern_task": "Undefined",
+            "historical_perception": "Socratic Method: Dialectical inquiry and contradiction identification.",
+            "shift_score": 1.0
+        },
+        "5": {
+            "modern_task": "Undefined",
+            "historical_perception": "Inductive Reasoning: Generalization from specific classical observations.",
+            "shift_score": 1.0
+        },
+        "6": {
+            "modern_task": "Undefined",
+            "historical_perception": "Categorical Syllogism: Standard Aristotelian deduction mapping.",
+            "shift_score": 1.0
+        },
+        "7": {
+            "modern_task": "Undefined",
+            "historical_perception": "Hypothetical Syllogism: Conditional logic and consequence mapping.",
+            "shift_score": 1.0
+        },
+        "8": {
+            "modern_task": "Undefined",
+            "historical_perception": "Disjunctive Syllogism: Alternative and exclusionary logical mapping.",
+            "shift_score": 1.0
+        },
+        "9": {
+            "modern_task": "Undefined",
+            "historical_perception": "Socratic Method: Dialectical inquiry and contradiction identification.",
+            "shift_score": 1.0
+        },
+        "10": {
+            "modern_task": "Undefined",
+            "historical_perception": "Inductive Reasoning: Generalization from specific classical observations.",
+            "shift_score": 1.0
+        },
+        "11": {
+            "modern_task": "Undefined",
+            "historical_perception": "Categorical Syllogism: Standard Aristotelian deduction mapping.",
+            "shift_score": 1.0
+        },
+        "12": {
+            "modern_task": "Undefined",
+            "historical_perception": "Hypothetical Syllogism: Conditional logic and consequence mapping.",
+            "shift_score": 1.0
+        },
+        "13": {
+            "modern_task": "Undefined",
+            "historical_perception": "Disjunctive Syllogism: Alternative and exclusionary logical mapping.",
+            "shift_score": 1.0
+        },
+        "14": {
+            "modern_task": "Undefined",
+            "historical_perception": "Socratic Method: Dialectical inquiry and contradiction identification.",
+            "shift_score": 1.0
+        },
+        "15": {
+            "modern_task": "Undefined",
+            "historical_perception": "Inductive Reasoning: Generalization from specific classical observations.",
+            "shift_score": 1.0
+        },
+        "16": {
+            "modern_task": "Undefined",
+            "historical_perception": "Categorical Syllogism: Standard Aristotelian deduction mapping.",
+            "shift_score": 1.0
+        },
+        "17": {
+            "modern_task": "Undefined",
+            "historical_perception": "Hypothetical Syllogism: Conditional logic and consequence mapping.",
+            "shift_score": 1.0
+        },
+        "18": {
+            "modern_task": "Undefined",
+            "historical_perception": "Disjunctive Syllogism: Alternative and exclusionary logical mapping.",
+            "shift_score": 1.0
+        },
+        "19": {
+            "modern_task": "Undefined",
+            "historical_perception": "Socratic Method: Dialectical inquiry and contradiction identification.",
+            "shift_score": 1.0
+        },
+        "20": {
+            "modern_task": "Undefined",
+            "historical_perception": "Inductive Reasoning: Generalization from specific classical observations.",
+            "shift_score": 1.0
+        },
+        "21": {
+            "modern_task": "Undefined",
+            "historical_perception": "Categorical Syllogism: Standard Aristotelian deduction mapping.",
+            "shift_score": 1.0
+        },
+        "22": {
+            "modern_task": "Undefined",
+            "historical_perception": "Hypothetical Syllogism: Conditional logic and consequence mapping.",
+            "shift_score": 1.0
+        },
+        "23": {
+            "modern_task": "Undefined",
+            "historical_perception": "Disjunctive Syllogism: Alternative and exclusionary logical mapping.",
+            "shift_score": 1.0
+        },
+        "24": {
+            "modern_task": "Undefined",
+            "historical_perception": "Socratic Method: Dialectical inquiry and contradiction identification.",
+            "shift_score": 1.0
+        },
+        "25": {
+            "modern_task": "Undefined",
+            "historical_perception": "Inductive Reasoning: Generalization from specific classical observations.",
+            "shift_score": 1.0
+        },
+        "26": {
+            "modern_task": "Undefined",
+            "historical_perception": "Categorical Syllogism: Standard Aristotelian deduction mapping.",
+            "shift_score": 1.0
+        },
+        "27": {
+            "modern_task": "Undefined",
+            "historical_perception": "Hypothetical Syllogism: Conditional logic and consequence mapping.",
+            "shift_score": 1.0
+        },
+        "28": {
+            "modern_task": "Undefined",
+            "historical_perception": "Disjunctive Syllogism: Alternative and exclusionary logical mapping.",
+            "shift_score": 1.0
+        },
+        "29": {
+            "modern_task": "Undefined",
+            "historical_perception": "Socratic Method: Dialectical inquiry and contradiction identification.",
+            "shift_score": 1.0
+        },
+        "30": {
+            "modern_task": "Undefined",
+            "historical_perception": "Inductive Reasoning: Generalization from specific classical observations.",
+            "shift_score": 1.0
+        },
+        "31": {
+            "modern_task": "Undefined",
+            "historical_perception": "Categorical Syllogism: Standard Aristotelian deduction mapping.",
+            "shift_score": 1.0
+        },
+        "32": {
+            "modern_task": "Undefined",
+            "historical_perception": "Hypothetical Syllogism: Conditional logic and consequence mapping.",
+            "shift_score": 1.0
+        },
+        "33": {
+            "modern_task": "Undefined",
+            "historical_perception": "Disjunctive Syllogism: Alternative and exclusionary logical mapping.",
+            "shift_score": 1.0
+        },
+        "34": {
+            "modern_task": "Undefined",
+            "historical_perception": "Socratic Method: Dialectical inquiry and contradiction identification.",
+            "shift_score": 1.0
+        },
+        "35": {
+            "modern_task": "Undefined",
+            "historical_perception": "Inductive Reasoning: Generalization from specific classical observations.",
+            "shift_score": 1.0
+        },
+        "36": {
+            "modern_task": "Undefined",
+            "historical_perception": "Categorical Syllogism: Standard Aristotelian deduction mapping.",
+            "shift_score": 1.0
+        },
+        "37": {
+            "modern_task": "Undefined",
+            "historical_perception": "Hypothetical Syllogism: Conditional logic and consequence mapping.",
+            "shift_score": 1.0
+        },
+        "38": {
+            "modern_task": "Undefined",
+            "historical_perception": "Disjunctive Syllogism: Alternative and exclusionary logical mapping.",
+            "shift_score": 1.0
+        },
+        "39": {
+            "modern_task": "Undefined",
+            "historical_perception": "Socratic Method: Dialectical inquiry and contradiction identification.",
+            "shift_score": 1.0
+        },
+        "40": {
+            "modern_task": "Undefined",
+            "historical_perception": "Inductive Reasoning: Generalization from specific classical observations.",
+            "shift_score": 1.0
+        },
+        "41": {
+            "modern_task": "Undefined",
+            "historical_perception": "Categorical Syllogism: Standard Aristotelian deduction mapping.",
+            "shift_score": 1.0
+        },
+        "42": {
+            "modern_task": "Undefined",
+            "historical_perception": "Hypothetical Syllogism: Conditional logic and consequence mapping.",
+            "shift_score": 1.0
+        },
+        "43": {
+            "modern_task": "Undefined",
+            "historical_perception": "Disjunctive Syllogism: Alternative and exclusionary logical mapping.",
+            "shift_score": 1.0
+        },
+        "44": {
+            "modern_task": "Undefined",
+            "historical_perception": "Socratic Method: Dialectical inquiry and contradiction identification.",
+            "shift_score": 1.0
+        },
+        "45": {
+            "modern_task": "Undefined",
+            "historical_perception": "Inductive Reasoning: Generalization from specific classical observations.",
+            "shift_score": 1.0
+        },
+        "46": {
+            "modern_task": "Undefined",
+            "historical_perception": "Categorical Syllogism: Standard Aristotelian deduction mapping.",
+            "shift_score": 1.0
+        },
+        "47": {
+            "modern_task": "Undefined",
+            "historical_perception": "Hypothetical Syllogism: Conditional logic and consequence mapping.",
+            "shift_score": 1.0
+        },
+        "48": {
+            "modern_task": "Undefined",
+            "historical_perception": "Disjunctive Syllogism: Alternative and exclusionary logical mapping.",
+            "shift_score": 1.0
+        },
+        "49": {
+            "modern_task": "Undefined",
+            "historical_perception": "Socratic Method: Dialectical inquiry and contradiction identification.",
+            "shift_score": 1.0
+        },
+        "50": {
+            "modern_task": "Undefined",
+            "historical_perception": "Inductive Reasoning: Generalization from specific classical observations.",
+            "shift_score": 1.0
+        },
+        "51": {
+            "modern_task": "Undefined",
+            "historical_perception": "Categorical Syllogism: Standard Aristotelian deduction mapping.",
+            "shift_score": 1.0
+        },
+        "52": {
+            "modern_task": "Undefined",
+            "historical_perception": "Hypothetical Syllogism: Conditional logic and consequence mapping.",
+            "shift_score": 1.0
+        },
+        "53": {
+            "modern_task": "Undefined",
+            "historical_perception": "Disjunctive Syllogism: Alternative and exclusionary logical mapping.",
+            "shift_score": 1.0
+        },
+        "54": {
+            "modern_task": "Undefined",
+            "historical_perception": "Socratic Method: Dialectical inquiry and contradiction identification.",
+            "shift_score": 1.0
+        },
+        "55": {
+            "modern_task": "Undefined",
+            "historical_perception": "Inductive Reasoning: Generalization from specific classical observations.",
+            "shift_score": 1.0
+        },
+        "56": {
+            "modern_task": "Undefined",
+            "historical_perception": "Categorical Syllogism: Standard Aristotelian deduction mapping.",
+            "shift_score": 1.0
+        },
+        "57": {
+            "modern_task": "Undefined",
+            "historical_perception": "Hypothetical Syllogism: Conditional logic and consequence mapping.",
+            "shift_score": 1.0
+        },
+        "58": {
+            "modern_task": "Undefined",
+            "historical_perception": "Disjunctive Syllogism: Alternative and exclusionary logical mapping.",
+            "shift_score": 1.0
+        },
+        "59": {
+            "modern_task": "Undefined",
+            "historical_perception": "Socratic Method: Dialectical inquiry and contradiction identification.",
+            "shift_score": 1.0
+        },
+        "60": {
+            "modern_task": "Undefined",
+            "historical_perception": "Inductive Reasoning: Generalization from specific classical observations.",
+            "shift_score": 1.0
+        },
+        "61": {
+            "modern_task": "Undefined",
+            "historical_perception": "Categorical Syllogism: Standard Aristotelian deduction mapping.",
+            "shift_score": 1.0
+        },
+        "62": {
+            "modern_task": "Undefined",
+            "historical_perception": "Hypothetical Syllogism: Conditional logic and consequence mapping.",
+            "shift_score": 1.0
+        },
+        "63": {
+            "modern_task": "Undefined",
+            "historical_perception": "Disjunctive Syllogism: Alternative and exclusionary logical mapping.",
+            "shift_score": 1.0
+        },
+        "64": {
+            "modern_task": "Undefined",
+            "historical_perception": "Socratic Method: Dialectical inquiry and contradiction identification.",
+            "shift_score": 1.0
+        },
+        "65": {
+            "modern_task": "Undefined",
+            "historical_perception": "Inductive Reasoning: Generalization from specific classical observations.",
+            "shift_score": 1.0
+        },
+        "66": {
+            "modern_task": "Undefined",
+            "historical_perception": "Categorical Syllogism: Standard Aristotelian deduction mapping.",
+            "shift_score": 1.0
+        },
+        "67": {
+            "modern_task": "Undefined",
+            "historical_perception": "Hypothetical Syllogism: Conditional logic and consequence mapping.",
+            "shift_score": 1.0
+        },
+        "68": {
+            "modern_task": "Undefined",
+            "historical_perception": "Disjunctive Syllogism: Alternative and exclusionary logical mapping.",
+            "shift_score": 1.0
+        },
+        "69": {
+            "modern_task": "Undefined",
+            "historical_perception": "Socratic Method: Dialectical inquiry and contradiction identification.",
+            "shift_score": 1.0
+        },
+        "70": {
+            "modern_task": "Undefined",
+            "historical_perception": "Inductive Reasoning: Generalization from specific classical observations.",
+            "shift_score": 1.0
+        },
+        "71": {
+            "modern_task": "Undefined",
+            "historical_perception": "Categorical Syllogism: Standard Aristotelian deduction mapping.",
+            "shift_score": 1.0
+        },
+        "72": {
+            "modern_task": "Undefined",
+            "historical_perception": "Hypothetical Syllogism: Conditional logic and consequence mapping.",
+            "shift_score": 1.0
+        },
+        "73": {
+            "modern_task": "Undefined",
+            "historical_perception": "Disjunctive Syllogism: Alternative and exclusionary logical mapping.",
+            "shift_score": 1.0
+        },
+        "74": {
+            "modern_task": "Undefined",
+            "historical_perception": "Socratic Method: Dialectical inquiry and contradiction identification.",
+            "shift_score": 1.0
+        },
+        "75": {
+            "modern_task": "Undefined",
+            "historical_perception": "Inductive Reasoning: Generalization from specific classical observations.",
+            "shift_score": 1.0
+        },
+        "76": {
+            "modern_task": "Undefined",
+            "historical_perception": "Categorical Syllogism: Standard Aristotelian deduction mapping.",
+            "shift_score": 1.0
+        },
+        "77": {
+            "modern_task": "Undefined",
+            "historical_perception": "Hypothetical Syllogism: Conditional logic and consequence mapping.",
+            "shift_score": 1.0
+        },
+        "78": {
+            "modern_task": "Undefined",
+            "historical_perception": "Disjunctive Syllogism: Alternative and exclusionary logical mapping.",
+            "shift_score": 1.0
+        },
+        "79": {
+            "modern_task": "Undefined",
+            "historical_perception": "Socratic Method: Dialectical inquiry and contradiction identification.",
+            "shift_score": 1.0
+        },
+        "80": {
+            "modern_task": "Undefined",
+            "historical_perception": "Inductive Reasoning: Generalization from specific classical observations.",
+            "shift_score": 1.0
+        },
+        "81": {
+            "modern_task": "Undefined",
+            "historical_perception": "Categorical Syllogism: Standard Aristotelian deduction mapping.",
+            "shift_score": 1.0
+        },
+        "82": {
+            "modern_task": "Undefined",
+            "historical_perception": "Hypothetical Syllogism: Conditional logic and consequence mapping.",
+            "shift_score": 1.0
+        },
+        "83": {
+            "modern_task": "Undefined",
+            "historical_perception": "Disjunctive Syllogism: Alternative and exclusionary logical mapping.",
+            "shift_score": 1.0
+        },
+        "84": {
+            "modern_task": "Undefined",
+            "historical_perception": "Socratic Method: Dialectical inquiry and contradiction identification.",
+            "shift_score": 1.0
+        },
+        "85": {
+            "modern_task": "Undefined",
+            "historical_perception": "Inductive Reasoning: Generalization from specific classical observations.",
+            "shift_score": 1.0
+        },
+        "86": {
+            "modern_task": "Undefined",
+            "historical_perception": "Categorical Syllogism: Standard Aristotelian deduction mapping.",
+            "shift_score": 1.0
+        },
+        "87": {
+            "modern_task": "Undefined",
+            "historical_perception": "Hypothetical Syllogism: Conditional logic and consequence mapping.",
+            "shift_score": 1.0
+        },
+        "88": {
+            "modern_task": "Undefined",
+            "historical_perception": "Disjunctive Syllogism: Alternative and exclusionary logical mapping.",
+            "shift_score": 1.0
+        },
+        "89": {
+            "modern_task": "Undefined",
+            "historical_perception": "Socratic Method: Dialectical inquiry and contradiction identification.",
+            "shift_score": 1.0
+        },
+        "90": {
+            "modern_task": "Undefined",
+            "historical_perception": "Inductive Reasoning: Generalization from specific classical observations.",
+            "shift_score": 1.0
+        },
+        "91": {
+            "modern_task": "Undefined",
+            "historical_perception": "Categorical Syllogism: Standard Aristotelian deduction mapping.",
+            "shift_score": 1.0
+        },
+        "92": {
+            "modern_task": "Undefined",
+            "historical_perception": "Hypothetical Syllogism: Conditional logic and consequence mapping.",
+            "shift_score": 1.0
+        },
+        "93": {
+            "modern_task": "Undefined",
+            "historical_perception": "Disjunctive Syllogism: Alternative and exclusionary logical mapping.",
+            "shift_score": 1.0
+        },
+        "94": {
+            "modern_task": "Undefined",
+            "historical_perception": "Socratic Method: Dialectical inquiry and contradiction identification.",
+            "shift_score": 1.0
+        },
+        "95": {
+            "modern_task": "Undefined",
+            "historical_perception": "Inductive Reasoning: Generalization from specific classical observations.",
+            "shift_score": 1.0
+        },
+        "96": {
+            "modern_task": "Undefined",
+            "historical_perception": "Categorical Syllogism: Standard Aristotelian deduction mapping.",
+            "shift_score": 1.0
+        },
+        "97": {
+            "modern_task": "Undefined",
+            "historical_perception": "Hypothetical Syllogism: Conditional logic and consequence mapping.",
+            "shift_score": 1.0
+        },
+        "98": {
+            "modern_task": "Undefined",
+            "historical_perception": "Disjunctive Syllogism: Alternative and exclusionary logical mapping.",
+            "shift_score": 1.0
+        },
+        "99": {
+            "modern_task": "Undefined",
+            "historical_perception": "Socratic Method: Dialectical inquiry and contradiction identification.",
+            "shift_score": 1.0
+        },
+        "100": {
+            "modern_task": "Undefined",
+            "historical_perception": "Inductive Reasoning: Generalization from specific classical observations.",
+            "shift_score": 1.0
+        },
+        "101": {
+            "modern_task": "Undefined",
+            "historical_perception": "Categorical Syllogism: Standard Aristotelian deduction mapping.",
+            "shift_score": 1.0
+        },
+        "102": {
+            "modern_task": "Undefined",
+            "historical_perception": "Hypothetical Syllogism: Conditional logic and consequence mapping.",
+            "shift_score": 1.0
+        },
+        "103": {
+            "modern_task": "Undefined",
+            "historical_perception": "Disjunctive Syllogism: Alternative and exclusionary logical mapping.",
+            "shift_score": 1.0
+        },
+        "104": {
+            "modern_task": "Undefined",
+            "historical_perception": "Socratic Method: Dialectical inquiry and contradiction identification.",
+            "shift_score": 1.0
+        },
+        "105": {
+            "modern_task": "Undefined",
+            "historical_perception": "Inductive Reasoning: Generalization from specific classical observations.",
+            "shift_score": 1.0
+        },
+        "106": {
+            "modern_task": "Undefined",
+            "historical_perception": "Categorical Syllogism: Standard Aristotelian deduction mapping.",
+            "shift_score": 1.0
+        },
+        "107": {
+            "modern_task": "Undefined",
+            "historical_perception": "Hypothetical Syllogism: Conditional logic and consequence mapping.",
+            "shift_score": 1.0
+        },
+        "108": {
+            "modern_task": "Undefined",
+            "historical_perception": "Disjunctive Syllogism: Alternative and exclusionary logical mapping.",
+            "shift_score": 1.0
+        },
+        "109": {
+            "modern_task": "Undefined",
+            "historical_perception": "Socratic Method: Dialectical inquiry and contradiction identification.",
+            "shift_score": 1.0
+        },
+        "110": {
+            "modern_task": "Undefined",
+            "historical_perception": "Inductive Reasoning: Generalization from specific classical observations.",
+            "shift_score": 1.0
+        },
+        "111": {
+            "modern_task": "Undefined",
+            "historical_perception": "Categorical Syllogism: Standard Aristotelian deduction mapping.",
+            "shift_score": 1.0
+        },
+        "112": {
+            "modern_task": "Undefined",
+            "historical_perception": "Hypothetical Syllogism: Conditional logic and consequence mapping.",
+            "shift_score": 1.0
+        },
+        "113": {
+            "modern_task": "Undefined",
+            "historical_perception": "Disjunctive Syllogism: Alternative and exclusionary logical mapping.",
+            "shift_score": 1.0
+        },
+        "114": {
+            "modern_task": "Undefined",
+            "historical_perception": "Socratic Method: Dialectical inquiry and contradiction identification.",
+            "shift_score": 1.0
+        },
+        "115": {
+            "modern_task": "Undefined",
+            "historical_perception": "Inductive Reasoning: Generalization from specific classical observations.",
+            "shift_score": 1.0
+        },
+        "116": {
+            "modern_task": "Undefined",
+            "historical_perception": "Categorical Syllogism: Standard Aristotelian deduction mapping.",
+            "shift_score": 1.0
+        },
+        "117": {
+            "modern_task": "Undefined",
+            "historical_perception": "Hypothetical Syllogism: Conditional logic and consequence mapping.",
+            "shift_score": 1.0
+        },
+        "118": {
+            "modern_task": "Undefined",
+            "historical_perception": "Disjunctive Syllogism: Alternative and exclusionary logical mapping.",
+            "shift_score": 1.0
+        },
+        "119": {
+            "modern_task": "Undefined",
+            "historical_perception": "Socratic Method: Dialectical inquiry and contradiction identification.",
+            "shift_score": 1.0
+        },
+        "120": {
+            "modern_task": "Undefined",
+            "historical_perception": "Inductive Reasoning: Generalization from specific classical observations.",
+            "shift_score": 1.0
+        },
+        "121": {
+            "modern_task": "Undefined",
+            "historical_perception": "Categorical Syllogism: Standard Aristotelian deduction mapping.",
+            "shift_score": 1.0
+        },
+        "122": {
+            "modern_task": "Undefined",
+            "historical_perception": "Hypothetical Syllogism: Conditional logic and consequence mapping.",
+            "shift_score": 1.0
+        },
+        "123": {
+            "modern_task": "Undefined",
+            "historical_perception": "Disjunctive Syllogism: Alternative and exclusionary logical mapping.",
+            "shift_score": 1.0
+        },
+        "124": {
+            "modern_task": "Undefined",
+            "historical_perception": "Socratic Method: Dialectical inquiry and contradiction identification.",
+            "shift_score": 1.0
+        },
+        "125": {
+            "modern_task": "Undefined",
+            "historical_perception": "Inductive Reasoning: Generalization from specific classical observations.",
+            "shift_score": 1.0
+        },
+        "126": {
+            "modern_task": "Undefined",
+            "historical_perception": "Categorical Syllogism: Standard Aristotelian deduction mapping.",
+            "shift_score": 1.0
+        },
+        "127": {
+            "modern_task": "Undefined",
+            "historical_perception": "Hypothetical Syllogism: Conditional logic and consequence mapping.",
+            "shift_score": 1.0
+        },
+        "128": {
+            "modern_task": "Undefined",
+            "historical_perception": "Disjunctive Syllogism: Alternative and exclusionary logical mapping.",
+            "shift_score": 1.0
+        },
+        "129": {
+            "modern_task": "Undefined",
+            "historical_perception": "Socratic Method: Dialectical inquiry and contradiction identification.",
+            "shift_score": 1.0
+        },
+        "130": {
+            "modern_task": "Undefined",
+            "historical_perception": "Inductive Reasoning: Generalization from specific classical observations.",
+            "shift_score": 1.0
+        },
+        "131": {
+            "modern_task": "Undefined",
+            "historical_perception": "Categorical Syllogism: Standard Aristotelian deduction mapping.",
+            "shift_score": 1.0
+        },
+        "132": {
+            "modern_task": "Undefined",
+            "historical_perception": "Hypothetical Syllogism: Conditional logic and consequence mapping.",
+            "shift_score": 1.0
+        },
+        "133": {
+            "modern_task": "Undefined",
+            "historical_perception": "Disjunctive Syllogism: Alternative and exclusionary logical mapping.",
+            "shift_score": 1.0
+        },
+        "134": {
+            "modern_task": "Undefined",
+            "historical_perception": "Socratic Method: Dialectical inquiry and contradiction identification.",
+            "shift_score": 1.0
+        },
+        "135": {
+            "modern_task": "Undefined",
+            "historical_perception": "Inductive Reasoning: Generalization from specific classical observations.",
+            "shift_score": 1.0
+        },
+        "136": {
+            "modern_task": "Undefined",
+            "historical_perception": "Categorical Syllogism: Standard Aristotelian deduction mapping.",
+            "shift_score": 1.0
+        },
+        "137": {
+            "modern_task": "Undefined",
+            "historical_perception": "Hypothetical Syllogism: Conditional logic and consequence mapping.",
+            "shift_score": 1.0
+        },
+        "138": {
+            "modern_task": "Undefined",
+            "historical_perception": "Disjunctive Syllogism: Alternative and exclusionary logical mapping.",
+            "shift_score": 1.0
+        },
+        "139": {
+            "modern_task": "Undefined",
+            "historical_perception": "Socratic Method: Dialectical inquiry and contradiction identification.",
+            "shift_score": 1.0
+        },
+        "140": {
+            "modern_task": "Undefined",
+            "historical_perception": "Inductive Reasoning: Generalization from specific classical observations.",
+            "shift_score": 1.0
+        },
+        "141": {
+            "modern_task": "Undefined",
+            "historical_perception": "Categorical Syllogism: Standard Aristotelian deduction mapping.",
+            "shift_score": 1.0
+        },
+        "142": {
+            "modern_task": "Undefined",
+            "historical_perception": "Hypothetical Syllogism: Conditional logic and consequence mapping.",
+            "shift_score": 1.0
+        },
+        "143": {
+            "modern_task": "Undefined",
+            "historical_perception": "Disjunctive Syllogism: Alternative and exclusionary logical mapping.",
+            "shift_score": 1.0
+        },
+        "144": {
+            "modern_task": "Undefined",
+            "historical_perception": "Socratic Method: Dialectical inquiry and contradiction identification.",
+            "shift_score": 1.0
+        },
+        "145": {
+            "modern_task": "Undefined",
+            "historical_perception": "Inductive Reasoning: Generalization from specific classical observations.",
+            "shift_score": 1.0
+        },
+        "146": {
+            "modern_task": "Undefined",
+            "historical_perception": "Categorical Syllogism: Standard Aristotelian deduction mapping.",
+            "shift_score": 1.0
+        },
+        "147": {
+            "modern_task": "Undefined",
+            "historical_perception": "Hypothetical Syllogism: Conditional logic and consequence mapping.",
+            "shift_score": 1.0
+        },
+        "148": {
+            "modern_task": "Undefined",
+            "historical_perception": "Disjunctive Syllogism: Alternative and exclusionary logical mapping.",
+            "shift_score": 1.0
+        },
+        "149": {
+            "modern_task": "Undefined",
+            "historical_perception": "Socratic Method: Dialectical inquiry and contradiction identification.",
+            "shift_score": 1.0
+        },
+        "150": {
+            "modern_task": "Undefined",
+            "historical_perception": "Inductive Reasoning: Generalization from specific classical observations.",
+            "shift_score": 1.0
+        },
+        "151": {
+            "modern_task": "Undefined",
+            "historical_perception": "Categorical Syllogism: Standard Aristotelian deduction mapping.",
+            "shift_score": 1.0
+        },
+        "152": {
+            "modern_task": "Undefined",
+            "historical_perception": "Hypothetical Syllogism: Conditional logic and consequence mapping.",
+            "shift_score": 1.0
+        },
+        "153": {
+            "modern_task": "Undefined",
+            "historical_perception": "Disjunctive Syllogism: Alternative and exclusionary logical mapping.",
+            "shift_score": 1.0
+        },
+        "154": {
+            "modern_task": "Undefined",
+            "historical_perception": "Socratic Method: Dialectical inquiry and contradiction identification.",
+            "shift_score": 1.0
+        },
+        "155": {
+            "modern_task": "Undefined",
+            "historical_perception": "Inductive Reasoning: Generalization from specific classical observations.",
+            "shift_score": 1.0
+        },
+        "156": {
+            "modern_task": "Undefined",
+            "historical_perception": "Categorical Syllogism: Standard Aristotelian deduction mapping.",
+            "shift_score": 1.0
+        },
+        "157": {
+            "modern_task": "Undefined",
+            "historical_perception": "Hypothetical Syllogism: Conditional logic and consequence mapping.",
+            "shift_score": 1.0
+        },
+        "158": {
+            "modern_task": "Undefined",
+            "historical_perception": "Disjunctive Syllogism: Alternative and exclusionary logical mapping.",
+            "shift_score": 1.0
+        },
+        "159": {
+            "modern_task": "Undefined",
+            "historical_perception": "Socratic Method: Dialectical inquiry and contradiction identification.",
+            "shift_score": 1.0
+        },
+        "160": {
+            "modern_task": "Undefined",
+            "historical_perception": "Inductive Reasoning: Generalization from specific classical observations.",
+            "shift_score": 1.0
+        },
+        "161": {
+            "modern_task": "Undefined",
+            "historical_perception": "Categorical Syllogism: Standard Aristotelian deduction mapping.",
+            "shift_score": 1.0
+        },
+        "162": {
+            "modern_task": "Undefined",
+            "historical_perception": "Hypothetical Syllogism: Conditional logic and consequence mapping.",
+            "shift_score": 1.0
+        },
+        "163": {
+            "modern_task": "Undefined",
+            "historical_perception": "Disjunctive Syllogism: Alternative and exclusionary logical mapping.",
+            "shift_score": 1.0
+        },
+        "164": {
+            "modern_task": "Undefined",
+            "historical_perception": "Socratic Method: Dialectical inquiry and contradiction identification.",
+            "shift_score": 1.0
+        },
+        "165": {
+            "modern_task": "Undefined",
+            "historical_perception": "Inductive Reasoning: Generalization from specific classical observations.",
+            "shift_score": 1.0
+        },
+        "166": {
+            "modern_task": "Undefined",
+            "historical_perception": "Categorical Syllogism: Standard Aristotelian deduction mapping.",
+            "shift_score": 1.0
+        },
+        "167": {
+            "modern_task": "Undefined",
+            "historical_perception": "Hypothetical Syllogism: Conditional logic and consequence mapping.",
+            "shift_score": 1.0
+        },
+        "168": {
+            "modern_task": "Undefined",
+            "historical_perception": "Disjunctive Syllogism: Alternative and exclusionary logical mapping.",
+            "shift_score": 1.0
+        },
+        "169": {
+            "modern_task": "Undefined",
+            "historical_perception": "Socratic Method: Dialectical inquiry and contradiction identification.",
+            "shift_score": 1.0
+        },
+        "170": {
+            "modern_task": "Undefined",
+            "historical_perception": "Inductive Reasoning: Generalization from specific classical observations.",
+            "shift_score": 1.0
+        },
+        "171": {
+            "modern_task": "Undefined",
+            "historical_perception": "Categorical Syllogism: Standard Aristotelian deduction mapping.",
+            "shift_score": 1.0
+        },
+        "172": {
+            "modern_task": "Undefined",
+            "historical_perception": "Hypothetical Syllogism: Conditional logic and consequence mapping.",
+            "shift_score": 1.0
+        },
+        "173": {
+            "modern_task": "Undefined",
+            "historical_perception": "Disjunctive Syllogism: Alternative and exclusionary logical mapping.",
+            "shift_score": 1.0
+        },
+        "174": {
+            "modern_task": "Undefined",
+            "historical_perception": "Socratic Method: Dialectical inquiry and contradiction identification.",
+            "shift_score": 1.0
+        },
+        "175": {
+            "modern_task": "Undefined",
+            "historical_perception": "Inductive Reasoning: Generalization from specific classical observations.",
+            "shift_score": 1.0
+        },
+        "176": {
+            "modern_task": "Undefined",
+            "historical_perception": "Categorical Syllogism: Standard Aristotelian deduction mapping.",
+            "shift_score": 1.0
+        },
+        "177": {
+            "modern_task": "Undefined",
+            "historical_perception": "Hypothetical Syllogism: Conditional logic and consequence mapping.",
+            "shift_score": 1.0
+        },
+        "178": {
+            "modern_task": "Undefined",
+            "historical_perception": "Disjunctive Syllogism: Alternative and exclusionary logical mapping.",
+            "shift_score": 1.0
+        },
+        "179": {
+            "modern_task": "Undefined",
+            "historical_perception": "Socratic Method: Dialectical inquiry and contradiction identification.",
+            "shift_score": 1.0
+        },
+        "180": {
+            "modern_task": "Undefined",
+            "historical_perception": "Inductive Reasoning: Generalization from specific classical observations.",
+            "shift_score": 1.0
+        },
+        "181": {
+            "modern_task": "Undefined",
+            "historical_perception": "Categorical Syllogism: Standard Aristotelian deduction mapping.",
+            "shift_score": 1.0
+        },
+        "182": {
+            "modern_task": "Undefined",
+            "historical_perception": "Hypothetical Syllogism: Conditional logic and consequence mapping.",
+            "shift_score": 1.0
+        },
+        "183": {
+            "modern_task": "Undefined",
+            "historical_perception": "Disjunctive Syllogism: Alternative and exclusionary logical mapping.",
+            "shift_score": 1.0
+        },
+        "184": {
+            "modern_task": "Undefined",
+            "historical_perception": "Socratic Method: Dialectical inquiry and contradiction identification.",
+            "shift_score": 1.0
+        },
+        "185": {
+            "modern_task": "Undefined",
+            "historical_perception": "Inductive Reasoning: Generalization from specific classical observations.",
+            "shift_score": 1.0
+        },
+        "186": {
+            "modern_task": "Undefined",
+            "historical_perception": "Categorical Syllogism: Standard Aristotelian deduction mapping.",
+            "shift_score": 1.0
+        },
+        "187": {
+            "modern_task": "Undefined",
+            "historical_perception": "Hypothetical Syllogism: Conditional logic and consequence mapping.",
+            "shift_score": 1.0
+        },
+        "188": {
+            "modern_task": "Undefined",
+            "historical_perception": "Disjunctive Syllogism: Alternative and exclusionary logical mapping.",
+            "shift_score": 1.0
+        },
+        "189": {
+            "modern_task": "Undefined",
+            "historical_perception": "Socratic Method: Dialectical inquiry and contradiction identification.",
+            "shift_score": 1.0
+        },
+        "190": {
+            "modern_task": "Undefined",
+            "historical_perception": "Inductive Reasoning: Generalization from specific classical observations.",
+            "shift_score": 1.0
+        },
+        "191": {
+            "modern_task": "Undefined",
+            "historical_perception": "Categorical Syllogism: Standard Aristotelian deduction mapping.",
+            "shift_score": 1.0
+        },
+        "192": {
+            "modern_task": "Undefined",
+            "historical_perception": "Hypothetical Syllogism: Conditional logic and consequence mapping.",
+            "shift_score": 1.0
+        },
+        "193": {
+            "modern_task": "Undefined",
+            "historical_perception": "Disjunctive Syllogism: Alternative and exclusionary logical mapping.",
+            "shift_score": 1.0
+        },
+        "194": {
+            "modern_task": "Undefined",
+            "historical_perception": "Socratic Method: Dialectical inquiry and contradiction identification.",
+            "shift_score": 1.0
+        },
+        "195": {
+            "modern_task": "Undefined",
+            "historical_perception": "Inductive Reasoning: Generalization from specific classical observations.",
+            "shift_score": 1.0
+        },
+        "196": {
+            "modern_task": "Undefined",
+            "historical_perception": "Categorical Syllogism: Standard Aristotelian deduction mapping.",
+            "shift_score": 1.0
+        },
+        "197": {
+            "modern_task": "Undefined",
+            "historical_perception": "Hypothetical Syllogism: Conditional logic and consequence mapping.",
+            "shift_score": 1.0
+        },
+        "198": {
+            "modern_task": "Undefined",
+            "historical_perception": "Disjunctive Syllogism: Alternative and exclusionary logical mapping.",
+            "shift_score": 1.0
+        },
+        "199": {
+            "modern_task": "Undefined",
+            "historical_perception": "Socratic Method: Dialectical inquiry and contradiction identification.",
+            "shift_score": 1.0
+        },
+        "200": {
+            "modern_task": "Undefined",
+            "historical_perception": "Inductive Reasoning: Generalization from specific classical observations.",
+            "shift_score": 1.0
+        },
+        "201": {
+            "modern_task": "Undefined",
+            "historical_perception": "Categorical Syllogism: Standard Aristotelian deduction mapping.",
+            "shift_score": 1.0
+        },
+        "202": {
+            "modern_task": "Undefined",
+            "historical_perception": "Hypothetical Syllogism: Conditional logic and consequence mapping.",
+            "shift_score": 1.0
+        },
+        "203": {
+            "modern_task": "Undefined",
+            "historical_perception": "Disjunctive Syllogism: Alternative and exclusionary logical mapping.",
+            "shift_score": 1.0
+        },
+        "204": {
+            "modern_task": "Undefined",
+            "historical_perception": "Socratic Method: Dialectical inquiry and contradiction identification.",
+            "shift_score": 1.0
+        },
+        "205": {
+            "modern_task": "Undefined",
+            "historical_perception": "Inductive Reasoning: Generalization from specific classical observations.",
+            "shift_score": 1.0
+        },
+        "206": {
+            "modern_task": "Undefined",
+            "historical_perception": "Categorical Syllogism: Standard Aristotelian deduction mapping.",
+            "shift_score": 1.0
+        },
+        "207": {
+            "modern_task": "Undefined",
+            "historical_perception": "Hypothetical Syllogism: Conditional logic and consequence mapping.",
+            "shift_score": 1.0
+        },
+        "208": {
+            "modern_task": "Undefined",
+            "historical_perception": "Disjunctive Syllogism: Alternative and exclusionary logical mapping.",
+            "shift_score": 1.0
+        },
+        "209": {
+            "modern_task": "Undefined",
+            "historical_perception": "Socratic Method: Dialectical inquiry and contradiction identification.",
+            "shift_score": 1.0
+        },
+        "210": {
+            "modern_task": "Undefined",
+            "historical_perception": "Inductive Reasoning: Generalization from specific classical observations.",
+            "shift_score": 1.0
+        },
+        "211": {
+            "modern_task": "Undefined",
+            "historical_perception": "Categorical Syllogism: Standard Aristotelian deduction mapping.",
+            "shift_score": 1.0
+        },
+        "212": {
+            "modern_task": "Undefined",
+            "historical_perception": "Hypothetical Syllogism: Conditional logic and consequence mapping.",
+            "shift_score": 1.0
+        },
+        "213": {
+            "modern_task": "Undefined",
+            "historical_perception": "Disjunctive Syllogism: Alternative and exclusionary logical mapping.",
+            "shift_score": 1.0
+        },
+        "214": {
+            "modern_task": "Undefined",
+            "historical_perception": "Socratic Method: Dialectical inquiry and contradiction identification.",
+            "shift_score": 1.0
+        },
+        "215": {
+            "modern_task": "Undefined",
+            "historical_perception": "Inductive Reasoning: Generalization from specific classical observations.",
+            "shift_score": 1.0
+        },
+        "216": {
+            "modern_task": "Undefined",
+            "historical_perception": "Categorical Syllogism: Standard Aristotelian deduction mapping.",
+            "shift_score": 1.0
+        },
+        "217": {
+            "modern_task": "Undefined",
+            "historical_perception": "Hypothetical Syllogism: Conditional logic and consequence mapping.",
+            "shift_score": 1.0
+        },
+        "218": {
+            "modern_task": "Undefined",
+            "historical_perception": "Disjunctive Syllogism: Alternative and exclusionary logical mapping.",
+            "shift_score": 1.0
+        },
+        "219": {
+            "modern_task": "Undefined",
+            "historical_perception": "Socratic Method: Dialectical inquiry and contradiction identification.",
+            "shift_score": 1.0
+        },
+        "220": {
+            "modern_task": "Undefined",
+            "historical_perception": "Inductive Reasoning: Generalization from specific classical observations.",
+            "shift_score": 1.0
+        },
+        "221": {
+            "modern_task": "Undefined",
+            "historical_perception": "Categorical Syllogism: Standard Aristotelian deduction mapping.",
+            "shift_score": 1.0
+        },
+        "222": {
+            "modern_task": "Undefined",
+            "historical_perception": "Hypothetical Syllogism: Conditional logic and consequence mapping.",
+            "shift_score": 1.0
+        },
+        "223": {
+            "modern_task": "Undefined",
+            "historical_perception": "Disjunctive Syllogism: Alternative and exclusionary logical mapping.",
+            "shift_score": 1.0
+        },
+        "224": {
+            "modern_task": "Undefined",
+            "historical_perception": "Socratic Method: Dialectical inquiry and contradiction identification.",
+            "shift_score": 1.0
+        },
+        "225": {
+            "modern_task": "Undefined",
+            "historical_perception": "Inductive Reasoning: Generalization from specific classical observations.",
+            "shift_score": 1.0
+        },
+        "226": {
+            "modern_task": "Undefined",
+            "historical_perception": "Categorical Syllogism: Standard Aristotelian deduction mapping.",
+            "shift_score": 1.0
+        },
+        "227": {
+            "modern_task": "Undefined",
+            "historical_perception": "Hypothetical Syllogism: Conditional logic and consequence mapping.",
+            "shift_score": 1.0
+        },
+        "228": {
+            "modern_task": "Undefined",
+            "historical_perception": "Disjunctive Syllogism: Alternative and exclusionary logical mapping.",
+            "shift_score": 1.0
+        },
+        "229": {
+            "modern_task": "Undefined",
+            "historical_perception": "Socratic Method: Dialectical inquiry and contradiction identification.",
+            "shift_score": 1.0
+        },
+        "230": {
+            "modern_task": "Undefined",
+            "historical_perception": "Inductive Reasoning: Generalization from specific classical observations.",
+            "shift_score": 1.0
+        },
+        "231": {
+            "modern_task": "Undefined",
+            "historical_perception": "Categorical Syllogism: Standard Aristotelian deduction mapping.",
+            "shift_score": 1.0
+        }
+    },
+    "status": "ANALYSIS_COMPLETE"
+}
