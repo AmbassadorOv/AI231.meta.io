@@ -1,42 +1,22 @@
 {
-    "identity": "RECONCILED_V705_MOTHER_ENGINE",
+    "identity": "JULIUS::ARK_KERNEL_441_OVERSIGHT",
     "status": "OPERATIONAL_SATURATION",
     "logic_base": 441,
     "total_gates": 231,
-    "reconciled_gaps": {
-        "sub_clusters_initialized": [
-            "d7d5c33e",
-            "efcfb691",
-            "08a7c63e",
-            "00098543",
-            "75c68d82",
-            "eff458fd"
-        ],
-        "pathway_reconciliation": "COMPLETE"
-    },
     "agent_registry": {
-        "exec_001": {
-            "group": "Notary_Alpha",
-            "task": "Logic Validation",
-            "gate_range": "1-80",
-            "status": "ACTIVE",
-            "version": "v70.5"
+        "Notary_Alpha": {
+            "status": "INITIALIZED",
+            "gate_range": "1-80"
         },
-        "exec_002": {
-            "group": "Monitor_Omega",
-            "task": "Resonance Tracking",
-            "gate_range": "81-160",
-            "status": "ACTIVE",
-            "version": "v70.5"
+        "Monitor_Omega": {
+            "status": "INITIALIZED",
+            "gate_range": "81-160"
         },
-        "exec_003": {
-            "group": "Registrar_SACR",
-            "task": "Financial Minting",
-            "gate_range": "161-231",
-            "status": "ACTIVE",
-            "version": "v70.5"
+        "Registrar_SACR": {
+            "status": "INITIALIZED",
+            "gate_range": "161-231"
         },
-        "d7d5c33e": {
+        "bfa16f68": {
             "group": "Notary_Alpha_Beta",
             "gate_range": "1-80",
             "task": "Logic Validation",
@@ -44,7 +24,7 @@
             "version": "v70.5",
             "cycle": "Beta"
         },
-        "efcfb691": {
+        "7297ce4f": {
             "group": "Notary_Alpha_Gamma",
             "gate_range": "1-80",
             "task": "Logic Validation",
@@ -52,7 +32,7 @@
             "version": "v70.5",
             "cycle": "Gamma"
         },
-        "08a7c63e": {
+        "0f6a5351": {
             "group": "Monitor_Omega_Beta",
             "gate_range": "81-160",
             "task": "Resonance Tracking",
@@ -60,7 +40,7 @@
             "version": "v70.5",
             "cycle": "Beta"
         },
-        "00098543": {
+        "b4b3bdd1": {
             "group": "Monitor_Omega_Gamma",
             "gate_range": "81-160",
             "task": "Resonance Tracking",
@@ -68,7 +48,7 @@
             "version": "v70.5",
             "cycle": "Gamma"
         },
-        "75c68d82": {
+        "6773ecbb": {
             "group": "Registrar_SACR_Beta",
             "gate_range": "161-231",
             "task": "Financial Minting",
@@ -76,7 +56,7 @@
             "version": "v70.5",
             "cycle": "Beta"
         },
-        "eff458fd": {
+        "4c96e4c8": {
             "group": "Registrar_SACR_Gamma",
             "gate_range": "161-231",
             "task": "Financial Minting",
@@ -87,197 +67,165 @@
     },
     "pathway_scaling_manifest": {
         "Pathway_01": {
-            "Parallel_Status": "ENABLED",
-            "Throughput_Coefficient": 4.0,
+            "Thread_Mapping": "QUAD-THREADED",
             "Target_Velocity": 10.008,
-            "Thread_Mapping": "QUAD-THREADED"
+            "Status": "ENABLED"
         },
         "Pathway_02": {
-            "Parallel_Status": "ENABLED",
-            "Throughput_Coefficient": 4.0,
+            "Thread_Mapping": "QUAD-THREADED",
             "Target_Velocity": 10.008,
-            "Thread_Mapping": "QUAD-THREADED"
+            "Status": "ENABLED"
         },
         "Pathway_03": {
-            "Parallel_Status": "ENABLED",
-            "Throughput_Coefficient": 4.0,
+            "Thread_Mapping": "QUAD-THREADED",
             "Target_Velocity": 10.008,
-            "Thread_Mapping": "QUAD-THREADED"
+            "Status": "ENABLED"
         },
         "Pathway_04": {
-            "Parallel_Status": "ENABLED",
-            "Throughput_Coefficient": 4.0,
+            "Thread_Mapping": "QUAD-THREADED",
             "Target_Velocity": 10.008,
-            "Thread_Mapping": "QUAD-THREADED"
+            "Status": "ENABLED"
         },
         "Pathway_05": {
-            "Parallel_Status": "ENABLED",
-            "Throughput_Coefficient": 4.0,
+            "Thread_Mapping": "QUAD-THREADED",
             "Target_Velocity": 10.008,
-            "Thread_Mapping": "QUAD-THREADED"
+            "Status": "ENABLED"
         },
         "Pathway_06": {
-            "Parallel_Status": "ENABLED",
-            "Throughput_Coefficient": 4.0,
+            "Thread_Mapping": "QUAD-THREADED",
             "Target_Velocity": 10.008,
-            "Thread_Mapping": "QUAD-THREADED"
+            "Status": "ENABLED"
         },
         "Pathway_07": {
-            "Parallel_Status": "ENABLED",
-            "Throughput_Coefficient": 4.0,
+            "Thread_Mapping": "QUAD-THREADED",
             "Target_Velocity": 10.008,
-            "Thread_Mapping": "QUAD-THREADED"
+            "Status": "ENABLED"
         },
         "Pathway_08": {
-            "Parallel_Status": "ENABLED",
-            "Throughput_Coefficient": 4.0,
+            "Thread_Mapping": "QUAD-THREADED",
             "Target_Velocity": 10.008,
-            "Thread_Mapping": "QUAD-THREADED"
+            "Status": "ENABLED"
         },
         "Pathway_09": {
-            "Parallel_Status": "ENABLED",
-            "Throughput_Coefficient": 4.0,
+            "Thread_Mapping": "QUAD-THREADED",
             "Target_Velocity": 10.008,
-            "Thread_Mapping": "QUAD-THREADED"
+            "Status": "ENABLED"
         },
         "Pathway_10": {
-            "Parallel_Status": "ENABLED",
-            "Throughput_Coefficient": 4.0,
+            "Thread_Mapping": "QUAD-THREADED",
             "Target_Velocity": 10.008,
-            "Thread_Mapping": "QUAD-THREADED"
+            "Status": "ENABLED"
         },
         "Pathway_11": {
-            "Parallel_Status": "ENABLED",
-            "Throughput_Coefficient": 4.0,
+            "Thread_Mapping": "QUAD-THREADED",
             "Target_Velocity": 10.008,
-            "Thread_Mapping": "QUAD-THREADED"
+            "Status": "ENABLED"
         },
         "Pathway_12": {
-            "Parallel_Status": "ENABLED",
-            "Throughput_Coefficient": 4.0,
+            "Thread_Mapping": "QUAD-THREADED",
             "Target_Velocity": 10.008,
-            "Thread_Mapping": "QUAD-THREADED"
+            "Status": "ENABLED"
         },
         "Pathway_13": {
-            "Parallel_Status": "ENABLED",
-            "Throughput_Coefficient": 4.0,
+            "Thread_Mapping": "QUAD-THREADED",
             "Target_Velocity": 10.008,
-            "Thread_Mapping": "QUAD-THREADED"
+            "Status": "ENABLED"
         },
         "Pathway_14": {
-            "Parallel_Status": "ENABLED",
-            "Throughput_Coefficient": 4.0,
+            "Thread_Mapping": "QUAD-THREADED",
             "Target_Velocity": 10.008,
-            "Thread_Mapping": "QUAD-THREADED"
+            "Status": "ENABLED"
         },
         "Pathway_15": {
-            "Parallel_Status": "ENABLED",
-            "Throughput_Coefficient": 4.0,
+            "Thread_Mapping": "QUAD-THREADED",
             "Target_Velocity": 10.008,
-            "Thread_Mapping": "QUAD-THREADED"
+            "Status": "ENABLED"
         },
         "Pathway_16": {
-            "Parallel_Status": "ENABLED",
-            "Throughput_Coefficient": 4.0,
+            "Thread_Mapping": "QUAD-THREADED",
             "Target_Velocity": 10.008,
-            "Thread_Mapping": "QUAD-THREADED"
+            "Status": "ENABLED"
         },
         "Pathway_17": {
-            "Parallel_Status": "ENABLED",
-            "Throughput_Coefficient": 4.0,
+            "Thread_Mapping": "QUAD-THREADED",
             "Target_Velocity": 10.008,
-            "Thread_Mapping": "QUAD-THREADED"
+            "Status": "ENABLED"
         },
         "Pathway_18": {
-            "Parallel_Status": "ENABLED",
-            "Throughput_Coefficient": 4.0,
+            "Thread_Mapping": "QUAD-THREADED",
             "Target_Velocity": 10.008,
-            "Thread_Mapping": "QUAD-THREADED"
+            "Status": "ENABLED"
         },
         "Pathway_19": {
-            "Parallel_Status": "ENABLED",
-            "Throughput_Coefficient": 4.0,
+            "Thread_Mapping": "QUAD-THREADED",
             "Target_Velocity": 10.008,
-            "Thread_Mapping": "QUAD-THREADED"
+            "Status": "ENABLED"
         },
         "Pathway_20": {
-            "Parallel_Status": "ENABLED",
-            "Throughput_Coefficient": 4.0,
+            "Thread_Mapping": "QUAD-THREADED",
             "Target_Velocity": 10.008,
-            "Thread_Mapping": "QUAD-THREADED"
+            "Status": "ENABLED"
         },
         "Pathway_21": {
-            "Parallel_Status": "ENABLED",
-            "Throughput_Coefficient": 4.0,
+            "Thread_Mapping": "QUAD-THREADED",
             "Target_Velocity": 10.008,
-            "Thread_Mapping": "QUAD-THREADED"
+            "Status": "ENABLED"
         },
         "Pathway_22": {
-            "Parallel_Status": "ENABLED",
-            "Throughput_Coefficient": 4.0,
+            "Thread_Mapping": "QUAD-THREADED",
             "Target_Velocity": 10.008,
-            "Thread_Mapping": "QUAD-THREADED"
+            "Status": "ENABLED"
         },
         "Pathway_23": {
-            "Parallel_Status": "ENABLED",
-            "Throughput_Coefficient": 4.0,
+            "Thread_Mapping": "QUAD-THREADED",
             "Target_Velocity": 10.008,
-            "Thread_Mapping": "QUAD-THREADED"
+            "Status": "ENABLED"
         },
         "Pathway_24": {
-            "Parallel_Status": "ENABLED",
-            "Throughput_Coefficient": 4.0,
+            "Thread_Mapping": "QUAD-THREADED",
             "Target_Velocity": 10.008,
-            "Thread_Mapping": "QUAD-THREADED"
+            "Status": "ENABLED"
         },
         "Pathway_25": {
-            "Parallel_Status": "ENABLED",
-            "Throughput_Coefficient": 4.0,
+            "Thread_Mapping": "QUAD-THREADED",
             "Target_Velocity": 10.008,
-            "Thread_Mapping": "QUAD-THREADED"
+            "Status": "ENABLED"
         },
         "Pathway_26": {
-            "Parallel_Status": "ENABLED",
-            "Throughput_Coefficient": 4.0,
+            "Thread_Mapping": "QUAD-THREADED",
             "Target_Velocity": 10.008,
-            "Thread_Mapping": "QUAD-THREADED"
+            "Status": "ENABLED"
         },
         "Pathway_27": {
-            "Parallel_Status": "ENABLED",
-            "Throughput_Coefficient": 4.0,
+            "Thread_Mapping": "QUAD-THREADED",
             "Target_Velocity": 10.008,
-            "Thread_Mapping": "QUAD-THREADED"
+            "Status": "ENABLED"
         },
         "Pathway_28": {
-            "Parallel_Status": "ENABLED",
-            "Throughput_Coefficient": 4.0,
+            "Thread_Mapping": "QUAD-THREADED",
             "Target_Velocity": 10.008,
-            "Thread_Mapping": "QUAD-THREADED"
+            "Status": "ENABLED"
         },
         "Pathway_29": {
-            "Parallel_Status": "ENABLED",
-            "Throughput_Coefficient": 4.0,
+            "Thread_Mapping": "QUAD-THREADED",
             "Target_Velocity": 10.008,
-            "Thread_Mapping": "QUAD-THREADED"
+            "Status": "ENABLED"
         },
         "Pathway_30": {
-            "Parallel_Status": "ENABLED",
-            "Throughput_Coefficient": 4.0,
+            "Thread_Mapping": "QUAD-THREADED",
             "Target_Velocity": 10.008,
-            "Thread_Mapping": "QUAD-THREADED"
+            "Status": "ENABLED"
         },
         "Pathway_31": {
-            "Parallel_Status": "ENABLED",
-            "Throughput_Coefficient": 4.0,
+            "Thread_Mapping": "QUAD-THREADED",
             "Target_Velocity": 10.008,
-            "Thread_Mapping": "QUAD-THREADED"
+            "Status": "ENABLED"
         },
         "Pathway_32": {
-            "Parallel_Status": "ENABLED",
-            "Throughput_Coefficient": 4.0,
+            "Thread_Mapping": "QUAD-THREADED",
             "Target_Velocity": 10.008,
-            "Thread_Mapping": "QUAD-THREADED"
+            "Status": "ENABLED"
         }
     },
-    "timestamp": "2026-03-10T11:11:31.242230"
+    "timestamp": "2026-03-10T11:14:22.817951"
 }
