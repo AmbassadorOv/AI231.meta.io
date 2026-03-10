@@ -26,7 +26,295 @@
             "gate_range": "161-231",
             "status": "ACTIVE",
             "version": "v70.5"
+        },
+        "8ed4ed09": {
+            "group": "Notary_Alpha_Beta",
+            "parent_id": "981f3b22",
+            "gate_range": "1-80",
+            "task": "Logic Validation",
+            "status": "ACTIVE",
+            "version": "v70.5",
+            "cycle": "Beta"
+        },
+        "57c41916": {
+            "group": "Notary_Alpha_Gamma",
+            "parent_id": "981f3b22",
+            "gate_range": "1-80",
+            "task": "Logic Validation",
+            "status": "ACTIVE",
+            "version": "v70.5",
+            "cycle": "Gamma"
+        },
+        "7e6338a4": {
+            "group": "Monitor_Omega_Beta",
+            "parent_id": "534de4af",
+            "gate_range": "81-160",
+            "task": "Resonance Tracking",
+            "status": "ACTIVE",
+            "version": "v70.5",
+            "cycle": "Beta"
+        },
+        "3f0d0334": {
+            "group": "Monitor_Omega_Gamma",
+            "parent_id": "534de4af",
+            "gate_range": "81-160",
+            "task": "Resonance Tracking",
+            "status": "ACTIVE",
+            "version": "v70.5",
+            "cycle": "Gamma"
+        },
+        "213d7119": {
+            "group": "Registrar_SACR_Beta",
+            "parent_id": "09c46e73",
+            "gate_range": "161-231",
+            "task": "Financial Minting",
+            "status": "ACTIVE",
+            "version": "v70.5",
+            "cycle": "Beta"
+        },
+        "7be237f1": {
+            "group": "Registrar_SACR_Gamma",
+            "parent_id": "09c46e73",
+            "gate_range": "161-231",
+            "task": "Financial Minting",
+            "status": "ACTIVE",
+            "version": "v70.5",
+            "cycle": "Gamma"
         }
     },
-    "timestamp": "2026-03-10T04:45:44.232958"
+    "pathway_scaling_manifest": {
+        "Pathway_01": {
+            "Parallel_Status": "ENABLED",
+            "Throughput_Coefficient": 4.0,
+            "Target_Velocity": 10.008,
+            "Thread_Mapping": "QUAD-THREADED"
+        },
+        "Pathway_02": {
+            "Parallel_Status": "ENABLED",
+            "Throughput_Coefficient": 4.0,
+            "Target_Velocity": 10.008,
+            "Thread_Mapping": "QUAD-THREADED"
+        },
+        "Pathway_03": {
+            "Parallel_Status": "ENABLED",
+            "Throughput_Coefficient": 4.0,
+            "Target_Velocity": 10.008,
+            "Thread_Mapping": "QUAD-THREADED"
+        },
+        "Pathway_04": {
+            "Parallel_Status": "ENABLED",
+            "Throughput_Coefficient": 4.0,
+            "Target_Velocity": 10.008,
+            "Thread_Mapping": "QUAD-THREADED"
+        },
+        "Pathway_05": {
+            "Parallel_Status": "ENABLED",
+            "Throughput_Coefficient": 4.0,
+            "Target_Velocity": 10.008,
+            "Thread_Mapping": "QUAD-THREADED"
+        },
+        "Pathway_06": {
+            "Parallel_Status": "ENABLED",
+            "Throughput_Coefficient": 4.0,
+            "Target_Velocity": 10.008,
+            "Thread_Mapping": "QUAD-THREADED"
+        },
+        "Pathway_07": {
+            "Parallel_Status": "ENABLED",
+            "Throughput_Coefficient": 4.0,
+            "Target_Velocity": 10.008,
+            "Thread_Mapping": "QUAD-THREADED"
+        },
+        "Pathway_08": {
+            "Parallel_Status": "ENABLED",
+            "Throughput_Coefficient": 4.0,
+            "Target_Velocity": 10.008,
+            "Thread_Mapping": "QUAD-THREADED"
+        },
+        "Pathway_09": {
+            "Parallel_Status": "ENABLED",
+            "Throughput_Coefficient": 4.0,
+            "Target_Velocity": 10.008,
+            "Thread_Mapping": "QUAD-THREADED"
+        },
+        "Pathway_10": {
+            "Parallel_Status": "ENABLED",
+            "Throughput_Coefficient": 4.0,
+            "Target_Velocity": 10.008,
+            "Thread_Mapping": "QUAD-THREADED"
+        },
+        "Pathway_11": {
+            "Parallel_Status": "ENABLED",
+            "Throughput_Coefficient": 4.0,
+            "Target_Velocity": 10.008,
+            "Thread_Mapping": "QUAD-THREADED"
+        },
+        "Pathway_12": {
+            "Parallel_Status": "ENABLED",
+            "Throughput_Coefficient": 4.0,
+            "Target_Velocity": 10.008,
+            "Thread_Mapping": "QUAD-THREADED"
+        },
+        "Pathway_13": {
+            "Parallel_Status": "ENABLED",
+            "Throughput_Coefficient": 4.0,
+            "Target_Velocity": 10.008,
+            "Thread_Mapping": "QUAD-THREADED"
+        },
+        "Pathway_14": {
+            "Parallel_Status": "ENABLED",
+            "Throughput_Coefficient": 4.0,
+            "Target_Velocity": 10.008,
+            "Thread_Mapping": "QUAD-THREADED"
+        },
+        "Pathway_15": {
+            "Parallel_Status": "ENABLED",
+            "Throughput_Coefficient": 4.0,
+            "Target_Velocity": 10.008,
+            "Thread_Mapping": "QUAD-THREADED"
+        },
+        "Pathway_16": {
+            "Parallel_Status": "ENABLED",
+            "Throughput_Coefficient": 4.0,
+            "Target_Velocity": 10.008,
+            "Thread_Mapping": "QUAD-THREADED"
+        },
+        "Pathway_17": {
+            "Parallel_Status": "ENABLED",
+            "Throughput_Coefficient": 4.0,
+            "Target_Velocity": 10.008,
+            "Thread_Mapping": "QUAD-THREADED"
+        },
+        "Pathway_18": {
+            "Parallel_Status": "ENABLED",
+            "Throughput_Coefficient": 4.0,
+            "Target_Velocity": 10.008,
+            "Thread_Mapping": "QUAD-THREADED"
+        },
+        "Pathway_19": {
+            "Parallel_Status": "ENABLED",
+            "Throughput_Coefficient": 4.0,
+            "Target_Velocity": 10.008,
+            "Thread_Mapping": "QUAD-THREADED"
+        },
+        "Pathway_20": {
+            "Parallel_Status": "ENABLED",
+            "Throughput_Coefficient": 4.0,
+            "Target_Velocity": 10.008,
+            "Thread_Mapping": "QUAD-THREADED"
+        },
+        "Pathway_21": {
+            "Parallel_Status": "ENABLED",
+            "Throughput_Coefficient": 4.0,
+            "Target_Velocity": 10.008,
+            "Thread_Mapping": "QUAD-THREADED"
+        },
+        "Pathway_22": {
+            "Parallel_Status": "ENABLED",
+            "Throughput_Coefficient": 4.0,
+            "Target_Velocity": 10.008,
+            "Thread_Mapping": "QUAD-THREADED"
+        },
+        "Pathway_23": {
+            "Parallel_Status": "ENABLED",
+            "Throughput_Coefficient": 4.0,
+            "Target_Velocity": 10.008,
+            "Thread_Mapping": "QUAD-THREADED"
+        },
+        "Pathway_24": {
+            "Parallel_Status": "ENABLED",
+            "Throughput_Coefficient": 4.0,
+            "Target_Velocity": 10.008,
+            "Thread_Mapping": "QUAD-THREADED"
+        },
+        "Pathway_25": {
+            "Parallel_Status": "ENABLED",
+            "Throughput_Coefficient": 4.0,
+            "Target_Velocity": 10.008,
+            "Thread_Mapping": "QUAD-THREADED"
+        },
+        "Pathway_26": {
+            "Parallel_Status": "ENABLED",
+            "Throughput_Coefficient": 4.0,
+            "Target_Velocity": 10.008,
+            "Thread_Mapping": "QUAD-THREADED"
+        },
+        "Pathway_27": {
+            "Parallel_Status": "ENABLED",
+            "Throughput_Coefficient": 4.0,
+            "Target_Velocity": 10.008,
+            "Thread_Mapping": "QUAD-THREADED"
+        },
+        "Pathway_28": {
+            "Parallel_Status": "ENABLED",
+            "Throughput_Coefficient": 4.0,
+            "Target_Velocity": 10.008,
+            "Thread_Mapping": "QUAD-THREADED"
+        },
+        "Pathway_29": {
+            "Parallel_Status": "ENABLED",
+            "Throughput_Coefficient": 4.0,
+            "Target_Velocity": 10.008,
+            "Thread_Mapping": "QUAD-THREADED"
+        },
+        "Pathway_30": {
+            "Parallel_Status": "ENABLED",
+            "Throughput_Coefficient": 4.0,
+            "Target_Velocity": 10.008,
+            "Thread_Mapping": "QUAD-THREADED"
+        },
+        "Pathway_31": {
+            "Parallel_Status": "ENABLED",
+            "Throughput_Coefficient": 4.0,
+            "Target_Velocity": 10.008,
+            "Thread_Mapping": "QUAD-THREADED"
+        },
+        "Pathway_32": {
+            "Parallel_Status": "ENABLED",
+            "Throughput_Coefficient": 4.0,
+            "Target_Velocity": 10.008,
+            "Thread_Mapping": "QUAD-THREADED"
+        }
+    },
+    "throughput_metrics": {
+        "saturation_velocity": 10.008,
+        "pathway_latencies": {
+            "Pathway_01": 2.03,
+            "Pathway_02": 2.68,
+            "Pathway_03": 3.69,
+            "Pathway_04": 3.89,
+            "Pathway_05": 3.19,
+            "Pathway_06": 2.75,
+            "Pathway_07": 2.11,
+            "Pathway_08": 1.93,
+            "Pathway_09": 1.25,
+            "Pathway_10": 1.82,
+            "Pathway_11": 2.92,
+            "Pathway_12": 0.23,
+            "Pathway_13": 1.52,
+            "Pathway_14": 0.61,
+            "Pathway_15": 2.12,
+            "Pathway_16": 0.98,
+            "Pathway_17": 1.72,
+            "Pathway_18": 1.87,
+            "Pathway_19": 0.18,
+            "Pathway_20": 2.11,
+            "Pathway_21": 4.34,
+            "Pathway_22": 3.7,
+            "Pathway_23": 0.15,
+            "Pathway_24": 4.31,
+            "Pathway_25": 1.46,
+            "Pathway_26": 0.14,
+            "Pathway_27": 4.57,
+            "Pathway_28": 4.68,
+            "Pathway_29": 2.99,
+            "Pathway_30": 1.44,
+            "Pathway_31": 2.12,
+            "Pathway_32": 4.19
+        },
+        "average_latency_ms": 2.3,
+        "timestamp": 1773118384.689309
+    },
+    "timestamp": "2026-03-10T04:53:28.087007",
+    "operational_state": "HIGH_THROUGHPUT_PARALLEL"
 }
