@@ -1,29 +1,32 @@
 {
     "identity": "JULIUS::SYNTHETIC_OVERSIGHT",
-    "gates": 231,
+    "version": "v70.5_ARK_MOTHER",
     "logic_base": 441,
-    "integrity_seal": "ActionEstimate=(100)^3:1000000:Efficiency=1300000%:Accuracy=+250.2%:Status=ACK+SC+BR+UPCT:iiisequencestartfrombottomtoTOP",
+    "gates": 231,
+    "pathways": 32,
+    "integrity_seal": "ActionEstimate=(100)^3:1000000:Efficiency=1300000%:Accuracy=+250.2%:Status=ACK+SC+BR+UPCT+V705:v705_ontological_lock_enabled",
     "agent_registry": {
-        "934ec4": {
-            "group": "Notaries",
-            "task": "Validation of Scroll Logic",
-            "status": "ACTIVE"
+        "981f3b22": {
+            "group": "Notary_Alpha",
+            "task": "Logic Validation",
+            "gate_range": "1-80",
+            "status": "ACTIVE",
+            "version": "v70.5"
         },
-        "1c472b": {
-            "group": "Monitors",
-            "task": "Ping-Pong/Resonance Tracking",
-            "status": "MONITORING"
+        "534de4af": {
+            "group": "Monitor_Omega",
+            "task": "Resonance Tracking",
+            "gate_range": "81-160",
+            "status": "ACTIVE",
+            "version": "v70.5"
         },
-        "a8f7e9": {
-            "group": "Registrars",
-            "task": "Coin/SACR Minting",
-            "status": "ACTIVE"
-        },
-        "aed566": {
-            "group": "Binders",
-            "task": "Lattice/DNA Security",
-            "status": "ACTIVE"
+        "09c46e73": {
+            "group": "Registrar_SACR",
+            "task": "Financial Minting",
+            "gate_range": "161-231",
+            "status": "ACTIVE",
+            "version": "v70.5"
         }
     },
-    "timestamp": "2026-03-10T01:55:32.064452"
+    "timestamp": "2026-03-10T04:45:44.232958"
 }
