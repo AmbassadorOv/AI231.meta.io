@@ -1,0 +1,14 @@
+{
+    "identity": "EPISTEMIC_SCALING_REPORT_V705",
+    "timestamp": "2026-03-10T11:26:27.489662",
+    "kernel_constants": {
+        "logic_base": 441,
+        "accuracy_peak": 2.502
+    },
+    "semantic_summary": {
+        "intersections": 0,
+        "deviations": 231
+    },
+    "epistemic_scaling_index": 0.441,
+    "status": "EVALUATION_COMPLETE"
+}
