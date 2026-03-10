@@ -1,0 +1,1165 @@
+{
+    "identity": "SEMANTIC_DIFFERENTIAL_LAYER_V1",
+    "timestamp": "2026-03-10T11:26:01.263265",
+    "gate_analysis": {
+        "1": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_1",
+            "status": "DEVIATION"
+        },
+        "2": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_2",
+            "status": "DEVIATION"
+        },
+        "3": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_3",
+            "status": "DEVIATION"
+        },
+        "4": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_4",
+            "status": "DEVIATION"
+        },
+        "5": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_5",
+            "status": "DEVIATION"
+        },
+        "6": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_6",
+            "status": "DEVIATION"
+        },
+        "7": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_7",
+            "status": "DEVIATION"
+        },
+        "8": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_8",
+            "status": "DEVIATION"
+        },
+        "9": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_9",
+            "status": "DEVIATION"
+        },
+        "10": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_10",
+            "status": "DEVIATION"
+        },
+        "11": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_11",
+            "status": "DEVIATION"
+        },
+        "12": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_12",
+            "status": "DEVIATION"
+        },
+        "13": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_13",
+            "status": "DEVIATION"
+        },
+        "14": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_14",
+            "status": "DEVIATION"
+        },
+        "15": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_15",
+            "status": "DEVIATION"
+        },
+        "16": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_16",
+            "status": "DEVIATION"
+        },
+        "17": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_17",
+            "status": "DEVIATION"
+        },
+        "18": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_18",
+            "status": "DEVIATION"
+        },
+        "19": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_19",
+            "status": "DEVIATION"
+        },
+        "20": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_20",
+            "status": "DEVIATION"
+        },
+        "21": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_21",
+            "status": "DEVIATION"
+        },
+        "22": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_22",
+            "status": "DEVIATION"
+        },
+        "23": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_23",
+            "status": "DEVIATION"
+        },
+        "24": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_24",
+            "status": "DEVIATION"
+        },
+        "25": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_25",
+            "status": "DEVIATION"
+        },
+        "26": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_26",
+            "status": "DEVIATION"
+        },
+        "27": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_27",
+            "status": "DEVIATION"
+        },
+        "28": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_28",
+            "status": "DEVIATION"
+        },
+        "29": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_29",
+            "status": "DEVIATION"
+        },
+        "30": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_30",
+            "status": "DEVIATION"
+        },
+        "31": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_31",
+            "status": "DEVIATION"
+        },
+        "32": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_32",
+            "status": "DEVIATION"
+        },
+        "33": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_33",
+            "status": "DEVIATION"
+        },
+        "34": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_34",
+            "status": "DEVIATION"
+        },
+        "35": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_35",
+            "status": "DEVIATION"
+        },
+        "36": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_36",
+            "status": "DEVIATION"
+        },
+        "37": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_37",
+            "status": "DEVIATION"
+        },
+        "38": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_38",
+            "status": "DEVIATION"
+        },
+        "39": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_39",
+            "status": "DEVIATION"
+        },
+        "40": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_40",
+            "status": "DEVIATION"
+        },
+        "41": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_41",
+            "status": "DEVIATION"
+        },
+        "42": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_42",
+            "status": "DEVIATION"
+        },
+        "43": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_43",
+            "status": "DEVIATION"
+        },
+        "44": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_44",
+            "status": "DEVIATION"
+        },
+        "45": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_45",
+            "status": "DEVIATION"
+        },
+        "46": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_46",
+            "status": "DEVIATION"
+        },
+        "47": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_47",
+            "status": "DEVIATION"
+        },
+        "48": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_48",
+            "status": "DEVIATION"
+        },
+        "49": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_49",
+            "status": "DEVIATION"
+        },
+        "50": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_50",
+            "status": "DEVIATION"
+        },
+        "51": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_51",
+            "status": "DEVIATION"
+        },
+        "52": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_52",
+            "status": "DEVIATION"
+        },
+        "53": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_53",
+            "status": "DEVIATION"
+        },
+        "54": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_54",
+            "status": "DEVIATION"
+        },
+        "55": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_55",
+            "status": "DEVIATION"
+        },
+        "56": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_56",
+            "status": "DEVIATION"
+        },
+        "57": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_57",
+            "status": "DEVIATION"
+        },
+        "58": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_58",
+            "status": "DEVIATION"
+        },
+        "59": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_59",
+            "status": "DEVIATION"
+        },
+        "60": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_60",
+            "status": "DEVIATION"
+        },
+        "61": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_61",
+            "status": "DEVIATION"
+        },
+        "62": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_62",
+            "status": "DEVIATION"
+        },
+        "63": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_63",
+            "status": "DEVIATION"
+        },
+        "64": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_64",
+            "status": "DEVIATION"
+        },
+        "65": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_65",
+            "status": "DEVIATION"
+        },
+        "66": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_66",
+            "status": "DEVIATION"
+        },
+        "67": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_67",
+            "status": "DEVIATION"
+        },
+        "68": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_68",
+            "status": "DEVIATION"
+        },
+        "69": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_69",
+            "status": "DEVIATION"
+        },
+        "70": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_70",
+            "status": "DEVIATION"
+        },
+        "71": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_71",
+            "status": "DEVIATION"
+        },
+        "72": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_72",
+            "status": "DEVIATION"
+        },
+        "73": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_73",
+            "status": "DEVIATION"
+        },
+        "74": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_74",
+            "status": "DEVIATION"
+        },
+        "75": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_75",
+            "status": "DEVIATION"
+        },
+        "76": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_76",
+            "status": "DEVIATION"
+        },
+        "77": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_77",
+            "status": "DEVIATION"
+        },
+        "78": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_78",
+            "status": "DEVIATION"
+        },
+        "79": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_79",
+            "status": "DEVIATION"
+        },
+        "80": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_80",
+            "status": "DEVIATION"
+        },
+        "81": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_81",
+            "status": "DEVIATION"
+        },
+        "82": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_82",
+            "status": "DEVIATION"
+        },
+        "83": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_83",
+            "status": "DEVIATION"
+        },
+        "84": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_84",
+            "status": "DEVIATION"
+        },
+        "85": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_85",
+            "status": "DEVIATION"
+        },
+        "86": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_86",
+            "status": "DEVIATION"
+        },
+        "87": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_87",
+            "status": "DEVIATION"
+        },
+        "88": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_88",
+            "status": "DEVIATION"
+        },
+        "89": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_89",
+            "status": "DEVIATION"
+        },
+        "90": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_90",
+            "status": "DEVIATION"
+        },
+        "91": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_91",
+            "status": "DEVIATION"
+        },
+        "92": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_92",
+            "status": "DEVIATION"
+        },
+        "93": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_93",
+            "status": "DEVIATION"
+        },
+        "94": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_94",
+            "status": "DEVIATION"
+        },
+        "95": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_95",
+            "status": "DEVIATION"
+        },
+        "96": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_96",
+            "status": "DEVIATION"
+        },
+        "97": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_97",
+            "status": "DEVIATION"
+        },
+        "98": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_98",
+            "status": "DEVIATION"
+        },
+        "99": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_99",
+            "status": "DEVIATION"
+        },
+        "100": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_100",
+            "status": "DEVIATION"
+        },
+        "101": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_101",
+            "status": "DEVIATION"
+        },
+        "102": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_102",
+            "status": "DEVIATION"
+        },
+        "103": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_103",
+            "status": "DEVIATION"
+        },
+        "104": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_104",
+            "status": "DEVIATION"
+        },
+        "105": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_105",
+            "status": "DEVIATION"
+        },
+        "106": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_106",
+            "status": "DEVIATION"
+        },
+        "107": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_107",
+            "status": "DEVIATION"
+        },
+        "108": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_108",
+            "status": "DEVIATION"
+        },
+        "109": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_109",
+            "status": "DEVIATION"
+        },
+        "110": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_110",
+            "status": "DEVIATION"
+        },
+        "111": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_111",
+            "status": "DEVIATION"
+        },
+        "112": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_112",
+            "status": "DEVIATION"
+        },
+        "113": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_113",
+            "status": "DEVIATION"
+        },
+        "114": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_114",
+            "status": "DEVIATION"
+        },
+        "115": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_115",
+            "status": "DEVIATION"
+        },
+        "116": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_116",
+            "status": "DEVIATION"
+        },
+        "117": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_117",
+            "status": "DEVIATION"
+        },
+        "118": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_118",
+            "status": "DEVIATION"
+        },
+        "119": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_119",
+            "status": "DEVIATION"
+        },
+        "120": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_120",
+            "status": "DEVIATION"
+        },
+        "121": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_121",
+            "status": "DEVIATION"
+        },
+        "122": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_122",
+            "status": "DEVIATION"
+        },
+        "123": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_123",
+            "status": "DEVIATION"
+        },
+        "124": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_124",
+            "status": "DEVIATION"
+        },
+        "125": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_125",
+            "status": "DEVIATION"
+        },
+        "126": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_126",
+            "status": "DEVIATION"
+        },
+        "127": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_127",
+            "status": "DEVIATION"
+        },
+        "128": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_128",
+            "status": "DEVIATION"
+        },
+        "129": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_129",
+            "status": "DEVIATION"
+        },
+        "130": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_130",
+            "status": "DEVIATION"
+        },
+        "131": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_131",
+            "status": "DEVIATION"
+        },
+        "132": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_132",
+            "status": "DEVIATION"
+        },
+        "133": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_133",
+            "status": "DEVIATION"
+        },
+        "134": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_134",
+            "status": "DEVIATION"
+        },
+        "135": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_135",
+            "status": "DEVIATION"
+        },
+        "136": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_136",
+            "status": "DEVIATION"
+        },
+        "137": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_137",
+            "status": "DEVIATION"
+        },
+        "138": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_138",
+            "status": "DEVIATION"
+        },
+        "139": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_139",
+            "status": "DEVIATION"
+        },
+        "140": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_140",
+            "status": "DEVIATION"
+        },
+        "141": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_141",
+            "status": "DEVIATION"
+        },
+        "142": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_142",
+            "status": "DEVIATION"
+        },
+        "143": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_143",
+            "status": "DEVIATION"
+        },
+        "144": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_144",
+            "status": "DEVIATION"
+        },
+        "145": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_145",
+            "status": "DEVIATION"
+        },
+        "146": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_146",
+            "status": "DEVIATION"
+        },
+        "147": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_147",
+            "status": "DEVIATION"
+        },
+        "148": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_148",
+            "status": "DEVIATION"
+        },
+        "149": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_149",
+            "status": "DEVIATION"
+        },
+        "150": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_150",
+            "status": "DEVIATION"
+        },
+        "151": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_151",
+            "status": "DEVIATION"
+        },
+        "152": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_152",
+            "status": "DEVIATION"
+        },
+        "153": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_153",
+            "status": "DEVIATION"
+        },
+        "154": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_154",
+            "status": "DEVIATION"
+        },
+        "155": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_155",
+            "status": "DEVIATION"
+        },
+        "156": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_156",
+            "status": "DEVIATION"
+        },
+        "157": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_157",
+            "status": "DEVIATION"
+        },
+        "158": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_158",
+            "status": "DEVIATION"
+        },
+        "159": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_159",
+            "status": "DEVIATION"
+        },
+        "160": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_160",
+            "status": "DEVIATION"
+        },
+        "161": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_161",
+            "status": "DEVIATION"
+        },
+        "162": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_162",
+            "status": "DEVIATION"
+        },
+        "163": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_163",
+            "status": "DEVIATION"
+        },
+        "164": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_164",
+            "status": "DEVIATION"
+        },
+        "165": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_165",
+            "status": "DEVIATION"
+        },
+        "166": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_166",
+            "status": "DEVIATION"
+        },
+        "167": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_167",
+            "status": "DEVIATION"
+        },
+        "168": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_168",
+            "status": "DEVIATION"
+        },
+        "169": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_169",
+            "status": "DEVIATION"
+        },
+        "170": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_170",
+            "status": "DEVIATION"
+        },
+        "171": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_171",
+            "status": "DEVIATION"
+        },
+        "172": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_172",
+            "status": "DEVIATION"
+        },
+        "173": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_173",
+            "status": "DEVIATION"
+        },
+        "174": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_174",
+            "status": "DEVIATION"
+        },
+        "175": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_175",
+            "status": "DEVIATION"
+        },
+        "176": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_176",
+            "status": "DEVIATION"
+        },
+        "177": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_177",
+            "status": "DEVIATION"
+        },
+        "178": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_178",
+            "status": "DEVIATION"
+        },
+        "179": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_179",
+            "status": "DEVIATION"
+        },
+        "180": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_180",
+            "status": "DEVIATION"
+        },
+        "181": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_181",
+            "status": "DEVIATION"
+        },
+        "182": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_182",
+            "status": "DEVIATION"
+        },
+        "183": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_183",
+            "status": "DEVIATION"
+        },
+        "184": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_184",
+            "status": "DEVIATION"
+        },
+        "185": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_185",
+            "status": "DEVIATION"
+        },
+        "186": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_186",
+            "status": "DEVIATION"
+        },
+        "187": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_187",
+            "status": "DEVIATION"
+        },
+        "188": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_188",
+            "status": "DEVIATION"
+        },
+        "189": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_189",
+            "status": "DEVIATION"
+        },
+        "190": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_190",
+            "status": "DEVIATION"
+        },
+        "191": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_191",
+            "status": "DEVIATION"
+        },
+        "192": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_192",
+            "status": "DEVIATION"
+        },
+        "193": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_193",
+            "status": "DEVIATION"
+        },
+        "194": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_194",
+            "status": "DEVIATION"
+        },
+        "195": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_195",
+            "status": "DEVIATION"
+        },
+        "196": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_196",
+            "status": "DEVIATION"
+        },
+        "197": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_197",
+            "status": "DEVIATION"
+        },
+        "198": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_198",
+            "status": "DEVIATION"
+        },
+        "199": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_199",
+            "status": "DEVIATION"
+        },
+        "200": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_200",
+            "status": "DEVIATION"
+        },
+        "201": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_201",
+            "status": "DEVIATION"
+        },
+        "202": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_202",
+            "status": "DEVIATION"
+        },
+        "203": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_203",
+            "status": "DEVIATION"
+        },
+        "204": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_204",
+            "status": "DEVIATION"
+        },
+        "205": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_205",
+            "status": "DEVIATION"
+        },
+        "206": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_206",
+            "status": "DEVIATION"
+        },
+        "207": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_207",
+            "status": "DEVIATION"
+        },
+        "208": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_208",
+            "status": "DEVIATION"
+        },
+        "209": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_209",
+            "status": "DEVIATION"
+        },
+        "210": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_210",
+            "status": "DEVIATION"
+        },
+        "211": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_211",
+            "status": "DEVIATION"
+        },
+        "212": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_212",
+            "status": "DEVIATION"
+        },
+        "213": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_213",
+            "status": "DEVIATION"
+        },
+        "214": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_214",
+            "status": "DEVIATION"
+        },
+        "215": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_215",
+            "status": "DEVIATION"
+        },
+        "216": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_216",
+            "status": "DEVIATION"
+        },
+        "217": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_217",
+            "status": "DEVIATION"
+        },
+        "218": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_218",
+            "status": "DEVIATION"
+        },
+        "219": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_219",
+            "status": "DEVIATION"
+        },
+        "220": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_220",
+            "status": "DEVIATION"
+        },
+        "221": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_221",
+            "status": "DEVIATION"
+        },
+        "222": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_222",
+            "status": "DEVIATION"
+        },
+        "223": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_223",
+            "status": "DEVIATION"
+        },
+        "224": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_224",
+            "status": "DEVIATION"
+        },
+        "225": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_225",
+            "status": "DEVIATION"
+        },
+        "226": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_226",
+            "status": "DEVIATION"
+        },
+        "227": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_227",
+            "status": "DEVIATION"
+        },
+        "228": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_228",
+            "status": "DEVIATION"
+        },
+        "229": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_229",
+            "status": "DEVIATION"
+        },
+        "230": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_230",
+            "status": "DEVIATION"
+        },
+        "231": {
+            "task": "Undefined",
+            "perspective": "Definition_Layer_231",
+            "status": "DEVIATION"
+        }
+    },
+    "summary": {
+        "intersections": 0,
+        "deviations": 231
+    }
+}
