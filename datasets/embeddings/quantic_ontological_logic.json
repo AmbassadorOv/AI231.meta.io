@@ -1,0 +1,1401 @@
+{
+    "identity": "QUANTIC_ONTOLOGICAL_LOGIC_V705",
+    "version": "v70.5",
+    "logic_base": 441,
+    "total_gates": 231,
+    "system_metrics": {
+        "epistemic_essence_score": 0.012118,
+        "reality_determination": "Symbolic Abstraction",
+        "aggregated_entropy_reduction": 487.316
+    },
+    "gate_architecture_mapping": {
+        "1": {
+            "Ontological_Unit": "Aleph",
+            "Probability_Amplitude": 0.8687,
+            "State_Stabilizer_Hz": 0.007124,
+            "Geometrical_Value": 1
+        },
+        "2": {
+            "Ontological_Unit": "Bet",
+            "Probability_Amplitude": 0.9834,
+            "State_Stabilizer_Hz": 0.014248,
+            "Geometrical_Value": 2
+        },
+        "3": {
+            "Ontological_Unit": "Gimel",
+            "Probability_Amplitude": 0.9284,
+            "State_Stabilizer_Hz": 0.021371,
+            "Geometrical_Value": 3
+        },
+        "4": {
+            "Ontological_Unit": "Dalet",
+            "Probability_Amplitude": 0.995,
+            "State_Stabilizer_Hz": 0.028495,
+            "Geometrical_Value": 4
+        },
+        "5": {
+            "Ontological_Unit": "He",
+            "Probability_Amplitude": 0.9834,
+            "State_Stabilizer_Hz": 0.035619,
+            "Geometrical_Value": 5
+        },
+        "6": {
+            "Ontological_Unit": "Vav",
+            "Probability_Amplitude": 0.995,
+            "State_Stabilizer_Hz": 0.042743,
+            "Geometrical_Value": 6
+        },
+        "7": {
+            "Ontological_Unit": "Zayin",
+            "Probability_Amplitude": 0.8268,
+            "State_Stabilizer_Hz": 0.049867,
+            "Geometrical_Value": 7
+        },
+        "8": {
+            "Ontological_Unit": "Het",
+            "Probability_Amplitude": 0.9711,
+            "State_Stabilizer_Hz": 0.05699,
+            "Geometrical_Value": 8
+        },
+        "9": {
+            "Ontological_Unit": "Tet",
+            "Probability_Amplitude": 0.9484,
+            "State_Stabilizer_Hz": 0.064114,
+            "Geometrical_Value": 9
+        },
+        "10": {
+            "Ontological_Unit": "Yod",
+            "Probability_Amplitude": 0.9484,
+            "State_Stabilizer_Hz": 0.071238,
+            "Geometrical_Value": 10
+        },
+        "11": {
+            "Ontological_Unit": "Kaf",
+            "Probability_Amplitude": 0.7081,
+            "State_Stabilizer_Hz": 0.142476,
+            "Geometrical_Value": 20
+        },
+        "12": {
+            "Ontological_Unit": "Lamed",
+            "Probability_Amplitude": 0.9991,
+            "State_Stabilizer_Hz": 0.213714,
+            "Geometrical_Value": 30
+        },
+        "13": {
+            "Ontological_Unit": "Mem",
+            "Probability_Amplitude": 0.9711,
+            "State_Stabilizer_Hz": 0.284952,
+            "Geometrical_Value": 40
+        },
+        "14": {
+            "Ontological_Unit": "Nun",
+            "Probability_Amplitude": 0.9991,
+            "State_Stabilizer_Hz": 0.35619,
+            "Geometrical_Value": 50
+        },
+        "15": {
+            "Ontological_Unit": "Samekh",
+            "Probability_Amplitude": 0.8687,
+            "State_Stabilizer_Hz": 0.427428,
+            "Geometrical_Value": 60
+        },
+        "16": {
+            "Ontological_Unit": "Ayin",
+            "Probability_Amplitude": 0.7943,
+            "State_Stabilizer_Hz": 0.498666,
+            "Geometrical_Value": 70
+        },
+        "17": {
+            "Ontological_Unit": "Pe",
+            "Probability_Amplitude": 0.8955,
+            "State_Stabilizer_Hz": 0.569903,
+            "Geometrical_Value": 80
+        },
+        "18": {
+            "Ontological_Unit": "Tsadi",
+            "Probability_Amplitude": 0.9711,
+            "State_Stabilizer_Hz": 0.641141,
+            "Geometrical_Value": 90
+        },
+        "19": {
+            "Ontological_Unit": "Qof",
+            "Probability_Amplitude": 0.6537,
+            "State_Stabilizer_Hz": 0.712379,
+            "Geometrical_Value": 100
+        },
+        "20": {
+            "Ontological_Unit": "Resh",
+            "Probability_Amplitude": 0.7943,
+            "State_Stabilizer_Hz": 1.424759,
+            "Geometrical_Value": 200
+        },
+        "21": {
+            "Ontological_Unit": "Shin",
+            "Probability_Amplitude": 0.8268,
+            "State_Stabilizer_Hz": 2.137138,
+            "Geometrical_Value": 300
+        },
+        "22": {
+            "Ontological_Unit": "Tav",
+            "Probability_Amplitude": 0.9991,
+            "State_Stabilizer_Hz": 2.849517,
+            "Geometrical_Value": 400
+        },
+        "23": {
+            "Ontological_Unit": "Kaf_Sophit",
+            "Probability_Amplitude": 0.5561,
+            "State_Stabilizer_Hz": 3.561896,
+            "Geometrical_Value": 500
+        },
+        "24": {
+            "Ontological_Unit": "Mem_Sophit",
+            "Probability_Amplitude": 0.4563,
+            "State_Stabilizer_Hz": 4.274276,
+            "Geometrical_Value": 600
+        },
+        "25": {
+            "Ontological_Unit": "Nun_Sophit",
+            "Probability_Amplitude": 0.0199,
+            "State_Stabilizer_Hz": 4.986655,
+            "Geometrical_Value": 700
+        },
+        "26": {
+            "Ontological_Unit": "Pe_Sophit",
+            "Probability_Amplitude": 0.5561,
+            "State_Stabilizer_Hz": 5.699034,
+            "Geometrical_Value": 800
+        },
+        "27": {
+            "Ontological_Unit": "Tsadi_Sophit",
+            "Probability_Amplitude": 0.3582,
+            "State_Stabilizer_Hz": 6.411414,
+            "Geometrical_Value": 900
+        },
+        "28": {
+            "Ontological_Unit": "Aleph",
+            "Probability_Amplitude": 0.8687,
+            "State_Stabilizer_Hz": 0.007124,
+            "Geometrical_Value": 1
+        },
+        "29": {
+            "Ontological_Unit": "Bet",
+            "Probability_Amplitude": 0.9834,
+            "State_Stabilizer_Hz": 0.014248,
+            "Geometrical_Value": 2
+        },
+        "30": {
+            "Ontological_Unit": "Gimel",
+            "Probability_Amplitude": 0.9284,
+            "State_Stabilizer_Hz": 0.021371,
+            "Geometrical_Value": 3
+        },
+        "31": {
+            "Ontological_Unit": "Dalet",
+            "Probability_Amplitude": 0.995,
+            "State_Stabilizer_Hz": 0.028495,
+            "Geometrical_Value": 4
+        },
+        "32": {
+            "Ontological_Unit": "He",
+            "Probability_Amplitude": 0.9834,
+            "State_Stabilizer_Hz": 0.035619,
+            "Geometrical_Value": 5
+        },
+        "33": {
+            "Ontological_Unit": "Vav",
+            "Probability_Amplitude": 0.995,
+            "State_Stabilizer_Hz": 0.042743,
+            "Geometrical_Value": 6
+        },
+        "34": {
+            "Ontological_Unit": "Zayin",
+            "Probability_Amplitude": 0.8268,
+            "State_Stabilizer_Hz": 0.049867,
+            "Geometrical_Value": 7
+        },
+        "35": {
+            "Ontological_Unit": "Het",
+            "Probability_Amplitude": 0.9711,
+            "State_Stabilizer_Hz": 0.05699,
+            "Geometrical_Value": 8
+        },
+        "36": {
+            "Ontological_Unit": "Tet",
+            "Probability_Amplitude": 0.9484,
+            "State_Stabilizer_Hz": 0.064114,
+            "Geometrical_Value": 9
+        },
+        "37": {
+            "Ontological_Unit": "Yod",
+            "Probability_Amplitude": 0.9484,
+            "State_Stabilizer_Hz": 0.071238,
+            "Geometrical_Value": 10
+        },
+        "38": {
+            "Ontological_Unit": "Kaf",
+            "Probability_Amplitude": 0.7081,
+            "State_Stabilizer_Hz": 0.142476,
+            "Geometrical_Value": 20
+        },
+        "39": {
+            "Ontological_Unit": "Lamed",
+            "Probability_Amplitude": 0.9991,
+            "State_Stabilizer_Hz": 0.213714,
+            "Geometrical_Value": 30
+        },
+        "40": {
+            "Ontological_Unit": "Mem",
+            "Probability_Amplitude": 0.9711,
+            "State_Stabilizer_Hz": 0.284952,
+            "Geometrical_Value": 40
+        },
+        "41": {
+            "Ontological_Unit": "Nun",
+            "Probability_Amplitude": 0.9991,
+            "State_Stabilizer_Hz": 0.35619,
+            "Geometrical_Value": 50
+        },
+        "42": {
+            "Ontological_Unit": "Samekh",
+            "Probability_Amplitude": 0.8687,
+            "State_Stabilizer_Hz": 0.427428,
+            "Geometrical_Value": 60
+        },
+        "43": {
+            "Ontological_Unit": "Ayin",
+            "Probability_Amplitude": 0.7943,
+            "State_Stabilizer_Hz": 0.498666,
+            "Geometrical_Value": 70
+        },
+        "44": {
+            "Ontological_Unit": "Pe",
+            "Probability_Amplitude": 0.8955,
+            "State_Stabilizer_Hz": 0.569903,
+            "Geometrical_Value": 80
+        },
+        "45": {
+            "Ontological_Unit": "Tsadi",
+            "Probability_Amplitude": 0.9711,
+            "State_Stabilizer_Hz": 0.641141,
+            "Geometrical_Value": 90
+        },
+        "46": {
+            "Ontological_Unit": "Qof",
+            "Probability_Amplitude": 0.6537,
+            "State_Stabilizer_Hz": 0.712379,
+            "Geometrical_Value": 100
+        },
+        "47": {
+            "Ontological_Unit": "Resh",
+            "Probability_Amplitude": 0.7943,
+            "State_Stabilizer_Hz": 1.424759,
+            "Geometrical_Value": 200
+        },
+        "48": {
+            "Ontological_Unit": "Shin",
+            "Probability_Amplitude": 0.8268,
+            "State_Stabilizer_Hz": 2.137138,
+            "Geometrical_Value": 300
+        },
+        "49": {
+            "Ontological_Unit": "Tav",
+            "Probability_Amplitude": 0.9991,
+            "State_Stabilizer_Hz": 2.849517,
+            "Geometrical_Value": 400
+        },
+        "50": {
+            "Ontological_Unit": "Kaf_Sophit",
+            "Probability_Amplitude": 0.5561,
+            "State_Stabilizer_Hz": 3.561896,
+            "Geometrical_Value": 500
+        },
+        "51": {
+            "Ontological_Unit": "Mem_Sophit",
+            "Probability_Amplitude": 0.4563,
+            "State_Stabilizer_Hz": 4.274276,
+            "Geometrical_Value": 600
+        },
+        "52": {
+            "Ontological_Unit": "Nun_Sophit",
+            "Probability_Amplitude": 0.0199,
+            "State_Stabilizer_Hz": 4.986655,
+            "Geometrical_Value": 700
+        },
+        "53": {
+            "Ontological_Unit": "Pe_Sophit",
+            "Probability_Amplitude": 0.5561,
+            "State_Stabilizer_Hz": 5.699034,
+            "Geometrical_Value": 800
+        },
+        "54": {
+            "Ontological_Unit": "Tsadi_Sophit",
+            "Probability_Amplitude": 0.3582,
+            "State_Stabilizer_Hz": 6.411414,
+            "Geometrical_Value": 900
+        },
+        "55": {
+            "Ontological_Unit": "Aleph",
+            "Probability_Amplitude": 0.8687,
+            "State_Stabilizer_Hz": 0.007124,
+            "Geometrical_Value": 1
+        },
+        "56": {
+            "Ontological_Unit": "Bet",
+            "Probability_Amplitude": 0.9834,
+            "State_Stabilizer_Hz": 0.014248,
+            "Geometrical_Value": 2
+        },
+        "57": {
+            "Ontological_Unit": "Gimel",
+            "Probability_Amplitude": 0.9284,
+            "State_Stabilizer_Hz": 0.021371,
+            "Geometrical_Value": 3
+        },
+        "58": {
+            "Ontological_Unit": "Dalet",
+            "Probability_Amplitude": 0.995,
+            "State_Stabilizer_Hz": 0.028495,
+            "Geometrical_Value": 4
+        },
+        "59": {
+            "Ontological_Unit": "He",
+            "Probability_Amplitude": 0.9834,
+            "State_Stabilizer_Hz": 0.035619,
+            "Geometrical_Value": 5
+        },
+        "60": {
+            "Ontological_Unit": "Vav",
+            "Probability_Amplitude": 0.995,
+            "State_Stabilizer_Hz": 0.042743,
+            "Geometrical_Value": 6
+        },
+        "61": {
+            "Ontological_Unit": "Zayin",
+            "Probability_Amplitude": 0.8268,
+            "State_Stabilizer_Hz": 0.049867,
+            "Geometrical_Value": 7
+        },
+        "62": {
+            "Ontological_Unit": "Het",
+            "Probability_Amplitude": 0.9711,
+            "State_Stabilizer_Hz": 0.05699,
+            "Geometrical_Value": 8
+        },
+        "63": {
+            "Ontological_Unit": "Tet",
+            "Probability_Amplitude": 0.9484,
+            "State_Stabilizer_Hz": 0.064114,
+            "Geometrical_Value": 9
+        },
+        "64": {
+            "Ontological_Unit": "Yod",
+            "Probability_Amplitude": 0.9484,
+            "State_Stabilizer_Hz": 0.071238,
+            "Geometrical_Value": 10
+        },
+        "65": {
+            "Ontological_Unit": "Kaf",
+            "Probability_Amplitude": 0.7081,
+            "State_Stabilizer_Hz": 0.142476,
+            "Geometrical_Value": 20
+        },
+        "66": {
+            "Ontological_Unit": "Lamed",
+            "Probability_Amplitude": 0.9991,
+            "State_Stabilizer_Hz": 0.213714,
+            "Geometrical_Value": 30
+        },
+        "67": {
+            "Ontological_Unit": "Mem",
+            "Probability_Amplitude": 0.9711,
+            "State_Stabilizer_Hz": 0.284952,
+            "Geometrical_Value": 40
+        },
+        "68": {
+            "Ontological_Unit": "Nun",
+            "Probability_Amplitude": 0.9991,
+            "State_Stabilizer_Hz": 0.35619,
+            "Geometrical_Value": 50
+        },
+        "69": {
+            "Ontological_Unit": "Samekh",
+            "Probability_Amplitude": 0.8687,
+            "State_Stabilizer_Hz": 0.427428,
+            "Geometrical_Value": 60
+        },
+        "70": {
+            "Ontological_Unit": "Ayin",
+            "Probability_Amplitude": 0.7943,
+            "State_Stabilizer_Hz": 0.498666,
+            "Geometrical_Value": 70
+        },
+        "71": {
+            "Ontological_Unit": "Pe",
+            "Probability_Amplitude": 0.8955,
+            "State_Stabilizer_Hz": 0.569903,
+            "Geometrical_Value": 80
+        },
+        "72": {
+            "Ontological_Unit": "Tsadi",
+            "Probability_Amplitude": 0.9711,
+            "State_Stabilizer_Hz": 0.641141,
+            "Geometrical_Value": 90
+        },
+        "73": {
+            "Ontological_Unit": "Qof",
+            "Probability_Amplitude": 0.6537,
+            "State_Stabilizer_Hz": 0.712379,
+            "Geometrical_Value": 100
+        },
+        "74": {
+            "Ontological_Unit": "Resh",
+            "Probability_Amplitude": 0.7943,
+            "State_Stabilizer_Hz": 1.424759,
+            "Geometrical_Value": 200
+        },
+        "75": {
+            "Ontological_Unit": "Shin",
+            "Probability_Amplitude": 0.8268,
+            "State_Stabilizer_Hz": 2.137138,
+            "Geometrical_Value": 300
+        },
+        "76": {
+            "Ontological_Unit": "Tav",
+            "Probability_Amplitude": 0.9991,
+            "State_Stabilizer_Hz": 2.849517,
+            "Geometrical_Value": 400
+        },
+        "77": {
+            "Ontological_Unit": "Kaf_Sophit",
+            "Probability_Amplitude": 0.5561,
+            "State_Stabilizer_Hz": 3.561896,
+            "Geometrical_Value": 500
+        },
+        "78": {
+            "Ontological_Unit": "Mem_Sophit",
+            "Probability_Amplitude": 0.4563,
+            "State_Stabilizer_Hz": 4.274276,
+            "Geometrical_Value": 600
+        },
+        "79": {
+            "Ontological_Unit": "Nun_Sophit",
+            "Probability_Amplitude": 0.0199,
+            "State_Stabilizer_Hz": 4.986655,
+            "Geometrical_Value": 700
+        },
+        "80": {
+            "Ontological_Unit": "Pe_Sophit",
+            "Probability_Amplitude": 0.5561,
+            "State_Stabilizer_Hz": 5.699034,
+            "Geometrical_Value": 800
+        },
+        "81": {
+            "Ontological_Unit": "Tsadi_Sophit",
+            "Probability_Amplitude": 0.3582,
+            "State_Stabilizer_Hz": 6.411414,
+            "Geometrical_Value": 900
+        },
+        "82": {
+            "Ontological_Unit": "Aleph",
+            "Probability_Amplitude": 0.8687,
+            "State_Stabilizer_Hz": 0.007124,
+            "Geometrical_Value": 1
+        },
+        "83": {
+            "Ontological_Unit": "Bet",
+            "Probability_Amplitude": 0.9834,
+            "State_Stabilizer_Hz": 0.014248,
+            "Geometrical_Value": 2
+        },
+        "84": {
+            "Ontological_Unit": "Gimel",
+            "Probability_Amplitude": 0.9284,
+            "State_Stabilizer_Hz": 0.021371,
+            "Geometrical_Value": 3
+        },
+        "85": {
+            "Ontological_Unit": "Dalet",
+            "Probability_Amplitude": 0.995,
+            "State_Stabilizer_Hz": 0.028495,
+            "Geometrical_Value": 4
+        },
+        "86": {
+            "Ontological_Unit": "He",
+            "Probability_Amplitude": 0.9834,
+            "State_Stabilizer_Hz": 0.035619,
+            "Geometrical_Value": 5
+        },
+        "87": {
+            "Ontological_Unit": "Vav",
+            "Probability_Amplitude": 0.995,
+            "State_Stabilizer_Hz": 0.042743,
+            "Geometrical_Value": 6
+        },
+        "88": {
+            "Ontological_Unit": "Zayin",
+            "Probability_Amplitude": 0.8268,
+            "State_Stabilizer_Hz": 0.049867,
+            "Geometrical_Value": 7
+        },
+        "89": {
+            "Ontological_Unit": "Het",
+            "Probability_Amplitude": 0.9711,
+            "State_Stabilizer_Hz": 0.05699,
+            "Geometrical_Value": 8
+        },
+        "90": {
+            "Ontological_Unit": "Tet",
+            "Probability_Amplitude": 0.9484,
+            "State_Stabilizer_Hz": 0.064114,
+            "Geometrical_Value": 9
+        },
+        "91": {
+            "Ontological_Unit": "Yod",
+            "Probability_Amplitude": 0.9484,
+            "State_Stabilizer_Hz": 0.071238,
+            "Geometrical_Value": 10
+        },
+        "92": {
+            "Ontological_Unit": "Kaf",
+            "Probability_Amplitude": 0.7081,
+            "State_Stabilizer_Hz": 0.142476,
+            "Geometrical_Value": 20
+        },
+        "93": {
+            "Ontological_Unit": "Lamed",
+            "Probability_Amplitude": 0.9991,
+            "State_Stabilizer_Hz": 0.213714,
+            "Geometrical_Value": 30
+        },
+        "94": {
+            "Ontological_Unit": "Mem",
+            "Probability_Amplitude": 0.9711,
+            "State_Stabilizer_Hz": 0.284952,
+            "Geometrical_Value": 40
+        },
+        "95": {
+            "Ontological_Unit": "Nun",
+            "Probability_Amplitude": 0.9991,
+            "State_Stabilizer_Hz": 0.35619,
+            "Geometrical_Value": 50
+        },
+        "96": {
+            "Ontological_Unit": "Samekh",
+            "Probability_Amplitude": 0.8687,
+            "State_Stabilizer_Hz": 0.427428,
+            "Geometrical_Value": 60
+        },
+        "97": {
+            "Ontological_Unit": "Ayin",
+            "Probability_Amplitude": 0.7943,
+            "State_Stabilizer_Hz": 0.498666,
+            "Geometrical_Value": 70
+        },
+        "98": {
+            "Ontological_Unit": "Pe",
+            "Probability_Amplitude": 0.8955,
+            "State_Stabilizer_Hz": 0.569903,
+            "Geometrical_Value": 80
+        },
+        "99": {
+            "Ontological_Unit": "Tsadi",
+            "Probability_Amplitude": 0.9711,
+            "State_Stabilizer_Hz": 0.641141,
+            "Geometrical_Value": 90
+        },
+        "100": {
+            "Ontological_Unit": "Qof",
+            "Probability_Amplitude": 0.6537,
+            "State_Stabilizer_Hz": 0.712379,
+            "Geometrical_Value": 100
+        },
+        "101": {
+            "Ontological_Unit": "Resh",
+            "Probability_Amplitude": 0.7943,
+            "State_Stabilizer_Hz": 1.424759,
+            "Geometrical_Value": 200
+        },
+        "102": {
+            "Ontological_Unit": "Shin",
+            "Probability_Amplitude": 0.8268,
+            "State_Stabilizer_Hz": 2.137138,
+            "Geometrical_Value": 300
+        },
+        "103": {
+            "Ontological_Unit": "Tav",
+            "Probability_Amplitude": 0.9991,
+            "State_Stabilizer_Hz": 2.849517,
+            "Geometrical_Value": 400
+        },
+        "104": {
+            "Ontological_Unit": "Kaf_Sophit",
+            "Probability_Amplitude": 0.5561,
+            "State_Stabilizer_Hz": 3.561896,
+            "Geometrical_Value": 500
+        },
+        "105": {
+            "Ontological_Unit": "Mem_Sophit",
+            "Probability_Amplitude": 0.4563,
+            "State_Stabilizer_Hz": 4.274276,
+            "Geometrical_Value": 600
+        },
+        "106": {
+            "Ontological_Unit": "Nun_Sophit",
+            "Probability_Amplitude": 0.0199,
+            "State_Stabilizer_Hz": 4.986655,
+            "Geometrical_Value": 700
+        },
+        "107": {
+            "Ontological_Unit": "Pe_Sophit",
+            "Probability_Amplitude": 0.5561,
+            "State_Stabilizer_Hz": 5.699034,
+            "Geometrical_Value": 800
+        },
+        "108": {
+            "Ontological_Unit": "Tsadi_Sophit",
+            "Probability_Amplitude": 0.3582,
+            "State_Stabilizer_Hz": 6.411414,
+            "Geometrical_Value": 900
+        },
+        "109": {
+            "Ontological_Unit": "Aleph",
+            "Probability_Amplitude": 0.8687,
+            "State_Stabilizer_Hz": 0.007124,
+            "Geometrical_Value": 1
+        },
+        "110": {
+            "Ontological_Unit": "Bet",
+            "Probability_Amplitude": 0.9834,
+            "State_Stabilizer_Hz": 0.014248,
+            "Geometrical_Value": 2
+        },
+        "111": {
+            "Ontological_Unit": "Gimel",
+            "Probability_Amplitude": 0.9284,
+            "State_Stabilizer_Hz": 0.021371,
+            "Geometrical_Value": 3
+        },
+        "112": {
+            "Ontological_Unit": "Dalet",
+            "Probability_Amplitude": 0.995,
+            "State_Stabilizer_Hz": 0.028495,
+            "Geometrical_Value": 4
+        },
+        "113": {
+            "Ontological_Unit": "He",
+            "Probability_Amplitude": 0.9834,
+            "State_Stabilizer_Hz": 0.035619,
+            "Geometrical_Value": 5
+        },
+        "114": {
+            "Ontological_Unit": "Vav",
+            "Probability_Amplitude": 0.995,
+            "State_Stabilizer_Hz": 0.042743,
+            "Geometrical_Value": 6
+        },
+        "115": {
+            "Ontological_Unit": "Zayin",
+            "Probability_Amplitude": 0.8268,
+            "State_Stabilizer_Hz": 0.049867,
+            "Geometrical_Value": 7
+        },
+        "116": {
+            "Ontological_Unit": "Het",
+            "Probability_Amplitude": 0.9711,
+            "State_Stabilizer_Hz": 0.05699,
+            "Geometrical_Value": 8
+        },
+        "117": {
+            "Ontological_Unit": "Tet",
+            "Probability_Amplitude": 0.9484,
+            "State_Stabilizer_Hz": 0.064114,
+            "Geometrical_Value": 9
+        },
+        "118": {
+            "Ontological_Unit": "Yod",
+            "Probability_Amplitude": 0.9484,
+            "State_Stabilizer_Hz": 0.071238,
+            "Geometrical_Value": 10
+        },
+        "119": {
+            "Ontological_Unit": "Kaf",
+            "Probability_Amplitude": 0.7081,
+            "State_Stabilizer_Hz": 0.142476,
+            "Geometrical_Value": 20
+        },
+        "120": {
+            "Ontological_Unit": "Lamed",
+            "Probability_Amplitude": 0.9991,
+            "State_Stabilizer_Hz": 0.213714,
+            "Geometrical_Value": 30
+        },
+        "121": {
+            "Ontological_Unit": "Mem",
+            "Probability_Amplitude": 0.9711,
+            "State_Stabilizer_Hz": 0.284952,
+            "Geometrical_Value": 40
+        },
+        "122": {
+            "Ontological_Unit": "Nun",
+            "Probability_Amplitude": 0.9991,
+            "State_Stabilizer_Hz": 0.35619,
+            "Geometrical_Value": 50
+        },
+        "123": {
+            "Ontological_Unit": "Samekh",
+            "Probability_Amplitude": 0.8687,
+            "State_Stabilizer_Hz": 0.427428,
+            "Geometrical_Value": 60
+        },
+        "124": {
+            "Ontological_Unit": "Ayin",
+            "Probability_Amplitude": 0.7943,
+            "State_Stabilizer_Hz": 0.498666,
+            "Geometrical_Value": 70
+        },
+        "125": {
+            "Ontological_Unit": "Pe",
+            "Probability_Amplitude": 0.8955,
+            "State_Stabilizer_Hz": 0.569903,
+            "Geometrical_Value": 80
+        },
+        "126": {
+            "Ontological_Unit": "Tsadi",
+            "Probability_Amplitude": 0.9711,
+            "State_Stabilizer_Hz": 0.641141,
+            "Geometrical_Value": 90
+        },
+        "127": {
+            "Ontological_Unit": "Qof",
+            "Probability_Amplitude": 0.6537,
+            "State_Stabilizer_Hz": 0.712379,
+            "Geometrical_Value": 100
+        },
+        "128": {
+            "Ontological_Unit": "Resh",
+            "Probability_Amplitude": 0.7943,
+            "State_Stabilizer_Hz": 1.424759,
+            "Geometrical_Value": 200
+        },
+        "129": {
+            "Ontological_Unit": "Shin",
+            "Probability_Amplitude": 0.8268,
+            "State_Stabilizer_Hz": 2.137138,
+            "Geometrical_Value": 300
+        },
+        "130": {
+            "Ontological_Unit": "Tav",
+            "Probability_Amplitude": 0.9991,
+            "State_Stabilizer_Hz": 2.849517,
+            "Geometrical_Value": 400
+        },
+        "131": {
+            "Ontological_Unit": "Kaf_Sophit",
+            "Probability_Amplitude": 0.5561,
+            "State_Stabilizer_Hz": 3.561896,
+            "Geometrical_Value": 500
+        },
+        "132": {
+            "Ontological_Unit": "Mem_Sophit",
+            "Probability_Amplitude": 0.4563,
+            "State_Stabilizer_Hz": 4.274276,
+            "Geometrical_Value": 600
+        },
+        "133": {
+            "Ontological_Unit": "Nun_Sophit",
+            "Probability_Amplitude": 0.0199,
+            "State_Stabilizer_Hz": 4.986655,
+            "Geometrical_Value": 700
+        },
+        "134": {
+            "Ontological_Unit": "Pe_Sophit",
+            "Probability_Amplitude": 0.5561,
+            "State_Stabilizer_Hz": 5.699034,
+            "Geometrical_Value": 800
+        },
+        "135": {
+            "Ontological_Unit": "Tsadi_Sophit",
+            "Probability_Amplitude": 0.3582,
+            "State_Stabilizer_Hz": 6.411414,
+            "Geometrical_Value": 900
+        },
+        "136": {
+            "Ontological_Unit": "Aleph",
+            "Probability_Amplitude": 0.8687,
+            "State_Stabilizer_Hz": 0.007124,
+            "Geometrical_Value": 1
+        },
+        "137": {
+            "Ontological_Unit": "Bet",
+            "Probability_Amplitude": 0.9834,
+            "State_Stabilizer_Hz": 0.014248,
+            "Geometrical_Value": 2
+        },
+        "138": {
+            "Ontological_Unit": "Gimel",
+            "Probability_Amplitude": 0.9284,
+            "State_Stabilizer_Hz": 0.021371,
+            "Geometrical_Value": 3
+        },
+        "139": {
+            "Ontological_Unit": "Dalet",
+            "Probability_Amplitude": 0.995,
+            "State_Stabilizer_Hz": 0.028495,
+            "Geometrical_Value": 4
+        },
+        "140": {
+            "Ontological_Unit": "He",
+            "Probability_Amplitude": 0.9834,
+            "State_Stabilizer_Hz": 0.035619,
+            "Geometrical_Value": 5
+        },
+        "141": {
+            "Ontological_Unit": "Vav",
+            "Probability_Amplitude": 0.995,
+            "State_Stabilizer_Hz": 0.042743,
+            "Geometrical_Value": 6
+        },
+        "142": {
+            "Ontological_Unit": "Zayin",
+            "Probability_Amplitude": 0.8268,
+            "State_Stabilizer_Hz": 0.049867,
+            "Geometrical_Value": 7
+        },
+        "143": {
+            "Ontological_Unit": "Het",
+            "Probability_Amplitude": 0.9711,
+            "State_Stabilizer_Hz": 0.05699,
+            "Geometrical_Value": 8
+        },
+        "144": {
+            "Ontological_Unit": "Tet",
+            "Probability_Amplitude": 0.9484,
+            "State_Stabilizer_Hz": 0.064114,
+            "Geometrical_Value": 9
+        },
+        "145": {
+            "Ontological_Unit": "Yod",
+            "Probability_Amplitude": 0.9484,
+            "State_Stabilizer_Hz": 0.071238,
+            "Geometrical_Value": 10
+        },
+        "146": {
+            "Ontological_Unit": "Kaf",
+            "Probability_Amplitude": 0.7081,
+            "State_Stabilizer_Hz": 0.142476,
+            "Geometrical_Value": 20
+        },
+        "147": {
+            "Ontological_Unit": "Lamed",
+            "Probability_Amplitude": 0.9991,
+            "State_Stabilizer_Hz": 0.213714,
+            "Geometrical_Value": 30
+        },
+        "148": {
+            "Ontological_Unit": "Mem",
+            "Probability_Amplitude": 0.9711,
+            "State_Stabilizer_Hz": 0.284952,
+            "Geometrical_Value": 40
+        },
+        "149": {
+            "Ontological_Unit": "Nun",
+            "Probability_Amplitude": 0.9991,
+            "State_Stabilizer_Hz": 0.35619,
+            "Geometrical_Value": 50
+        },
+        "150": {
+            "Ontological_Unit": "Samekh",
+            "Probability_Amplitude": 0.8687,
+            "State_Stabilizer_Hz": 0.427428,
+            "Geometrical_Value": 60
+        },
+        "151": {
+            "Ontological_Unit": "Ayin",
+            "Probability_Amplitude": 0.7943,
+            "State_Stabilizer_Hz": 0.498666,
+            "Geometrical_Value": 70
+        },
+        "152": {
+            "Ontological_Unit": "Pe",
+            "Probability_Amplitude": 0.8955,
+            "State_Stabilizer_Hz": 0.569903,
+            "Geometrical_Value": 80
+        },
+        "153": {
+            "Ontological_Unit": "Tsadi",
+            "Probability_Amplitude": 0.9711,
+            "State_Stabilizer_Hz": 0.641141,
+            "Geometrical_Value": 90
+        },
+        "154": {
+            "Ontological_Unit": "Qof",
+            "Probability_Amplitude": 0.6537,
+            "State_Stabilizer_Hz": 0.712379,
+            "Geometrical_Value": 100
+        },
+        "155": {
+            "Ontological_Unit": "Resh",
+            "Probability_Amplitude": 0.7943,
+            "State_Stabilizer_Hz": 1.424759,
+            "Geometrical_Value": 200
+        },
+        "156": {
+            "Ontological_Unit": "Shin",
+            "Probability_Amplitude": 0.8268,
+            "State_Stabilizer_Hz": 2.137138,
+            "Geometrical_Value": 300
+        },
+        "157": {
+            "Ontological_Unit": "Tav",
+            "Probability_Amplitude": 0.9991,
+            "State_Stabilizer_Hz": 2.849517,
+            "Geometrical_Value": 400
+        },
+        "158": {
+            "Ontological_Unit": "Kaf_Sophit",
+            "Probability_Amplitude": 0.5561,
+            "State_Stabilizer_Hz": 3.561896,
+            "Geometrical_Value": 500
+        },
+        "159": {
+            "Ontological_Unit": "Mem_Sophit",
+            "Probability_Amplitude": 0.4563,
+            "State_Stabilizer_Hz": 4.274276,
+            "Geometrical_Value": 600
+        },
+        "160": {
+            "Ontological_Unit": "Nun_Sophit",
+            "Probability_Amplitude": 0.0199,
+            "State_Stabilizer_Hz": 4.986655,
+            "Geometrical_Value": 700
+        },
+        "161": {
+            "Ontological_Unit": "Pe_Sophit",
+            "Probability_Amplitude": 0.5561,
+            "State_Stabilizer_Hz": 5.699034,
+            "Geometrical_Value": 800
+        },
+        "162": {
+            "Ontological_Unit": "Tsadi_Sophit",
+            "Probability_Amplitude": 0.3582,
+            "State_Stabilizer_Hz": 6.411414,
+            "Geometrical_Value": 900
+        },
+        "163": {
+            "Ontological_Unit": "Aleph",
+            "Probability_Amplitude": 0.8687,
+            "State_Stabilizer_Hz": 0.007124,
+            "Geometrical_Value": 1
+        },
+        "164": {
+            "Ontological_Unit": "Bet",
+            "Probability_Amplitude": 0.9834,
+            "State_Stabilizer_Hz": 0.014248,
+            "Geometrical_Value": 2
+        },
+        "165": {
+            "Ontological_Unit": "Gimel",
+            "Probability_Amplitude": 0.9284,
+            "State_Stabilizer_Hz": 0.021371,
+            "Geometrical_Value": 3
+        },
+        "166": {
+            "Ontological_Unit": "Dalet",
+            "Probability_Amplitude": 0.995,
+            "State_Stabilizer_Hz": 0.028495,
+            "Geometrical_Value": 4
+        },
+        "167": {
+            "Ontological_Unit": "He",
+            "Probability_Amplitude": 0.9834,
+            "State_Stabilizer_Hz": 0.035619,
+            "Geometrical_Value": 5
+        },
+        "168": {
+            "Ontological_Unit": "Vav",
+            "Probability_Amplitude": 0.995,
+            "State_Stabilizer_Hz": 0.042743,
+            "Geometrical_Value": 6
+        },
+        "169": {
+            "Ontological_Unit": "Zayin",
+            "Probability_Amplitude": 0.8268,
+            "State_Stabilizer_Hz": 0.049867,
+            "Geometrical_Value": 7
+        },
+        "170": {
+            "Ontological_Unit": "Het",
+            "Probability_Amplitude": 0.9711,
+            "State_Stabilizer_Hz": 0.05699,
+            "Geometrical_Value": 8
+        },
+        "171": {
+            "Ontological_Unit": "Tet",
+            "Probability_Amplitude": 0.9484,
+            "State_Stabilizer_Hz": 0.064114,
+            "Geometrical_Value": 9
+        },
+        "172": {
+            "Ontological_Unit": "Yod",
+            "Probability_Amplitude": 0.9484,
+            "State_Stabilizer_Hz": 0.071238,
+            "Geometrical_Value": 10
+        },
+        "173": {
+            "Ontological_Unit": "Kaf",
+            "Probability_Amplitude": 0.7081,
+            "State_Stabilizer_Hz": 0.142476,
+            "Geometrical_Value": 20
+        },
+        "174": {
+            "Ontological_Unit": "Lamed",
+            "Probability_Amplitude": 0.9991,
+            "State_Stabilizer_Hz": 0.213714,
+            "Geometrical_Value": 30
+        },
+        "175": {
+            "Ontological_Unit": "Mem",
+            "Probability_Amplitude": 0.9711,
+            "State_Stabilizer_Hz": 0.284952,
+            "Geometrical_Value": 40
+        },
+        "176": {
+            "Ontological_Unit": "Nun",
+            "Probability_Amplitude": 0.9991,
+            "State_Stabilizer_Hz": 0.35619,
+            "Geometrical_Value": 50
+        },
+        "177": {
+            "Ontological_Unit": "Samekh",
+            "Probability_Amplitude": 0.8687,
+            "State_Stabilizer_Hz": 0.427428,
+            "Geometrical_Value": 60
+        },
+        "178": {
+            "Ontological_Unit": "Ayin",
+            "Probability_Amplitude": 0.7943,
+            "State_Stabilizer_Hz": 0.498666,
+            "Geometrical_Value": 70
+        },
+        "179": {
+            "Ontological_Unit": "Pe",
+            "Probability_Amplitude": 0.8955,
+            "State_Stabilizer_Hz": 0.569903,
+            "Geometrical_Value": 80
+        },
+        "180": {
+            "Ontological_Unit": "Tsadi",
+            "Probability_Amplitude": 0.9711,
+            "State_Stabilizer_Hz": 0.641141,
+            "Geometrical_Value": 90
+        },
+        "181": {
+            "Ontological_Unit": "Qof",
+            "Probability_Amplitude": 0.6537,
+            "State_Stabilizer_Hz": 0.712379,
+            "Geometrical_Value": 100
+        },
+        "182": {
+            "Ontological_Unit": "Resh",
+            "Probability_Amplitude": 0.7943,
+            "State_Stabilizer_Hz": 1.424759,
+            "Geometrical_Value": 200
+        },
+        "183": {
+            "Ontological_Unit": "Shin",
+            "Probability_Amplitude": 0.8268,
+            "State_Stabilizer_Hz": 2.137138,
+            "Geometrical_Value": 300
+        },
+        "184": {
+            "Ontological_Unit": "Tav",
+            "Probability_Amplitude": 0.9991,
+            "State_Stabilizer_Hz": 2.849517,
+            "Geometrical_Value": 400
+        },
+        "185": {
+            "Ontological_Unit": "Kaf_Sophit",
+            "Probability_Amplitude": 0.5561,
+            "State_Stabilizer_Hz": 3.561896,
+            "Geometrical_Value": 500
+        },
+        "186": {
+            "Ontological_Unit": "Mem_Sophit",
+            "Probability_Amplitude": 0.4563,
+            "State_Stabilizer_Hz": 4.274276,
+            "Geometrical_Value": 600
+        },
+        "187": {
+            "Ontological_Unit": "Nun_Sophit",
+            "Probability_Amplitude": 0.0199,
+            "State_Stabilizer_Hz": 4.986655,
+            "Geometrical_Value": 700
+        },
+        "188": {
+            "Ontological_Unit": "Pe_Sophit",
+            "Probability_Amplitude": 0.5561,
+            "State_Stabilizer_Hz": 5.699034,
+            "Geometrical_Value": 800
+        },
+        "189": {
+            "Ontological_Unit": "Tsadi_Sophit",
+            "Probability_Amplitude": 0.3582,
+            "State_Stabilizer_Hz": 6.411414,
+            "Geometrical_Value": 900
+        },
+        "190": {
+            "Ontological_Unit": "Aleph",
+            "Probability_Amplitude": 0.8687,
+            "State_Stabilizer_Hz": 0.007124,
+            "Geometrical_Value": 1
+        },
+        "191": {
+            "Ontological_Unit": "Bet",
+            "Probability_Amplitude": 0.9834,
+            "State_Stabilizer_Hz": 0.014248,
+            "Geometrical_Value": 2
+        },
+        "192": {
+            "Ontological_Unit": "Gimel",
+            "Probability_Amplitude": 0.9284,
+            "State_Stabilizer_Hz": 0.021371,
+            "Geometrical_Value": 3
+        },
+        "193": {
+            "Ontological_Unit": "Dalet",
+            "Probability_Amplitude": 0.995,
+            "State_Stabilizer_Hz": 0.028495,
+            "Geometrical_Value": 4
+        },
+        "194": {
+            "Ontological_Unit": "He",
+            "Probability_Amplitude": 0.9834,
+            "State_Stabilizer_Hz": 0.035619,
+            "Geometrical_Value": 5
+        },
+        "195": {
+            "Ontological_Unit": "Vav",
+            "Probability_Amplitude": 0.995,
+            "State_Stabilizer_Hz": 0.042743,
+            "Geometrical_Value": 6
+        },
+        "196": {
+            "Ontological_Unit": "Zayin",
+            "Probability_Amplitude": 0.8268,
+            "State_Stabilizer_Hz": 0.049867,
+            "Geometrical_Value": 7
+        },
+        "197": {
+            "Ontological_Unit": "Het",
+            "Probability_Amplitude": 0.9711,
+            "State_Stabilizer_Hz": 0.05699,
+            "Geometrical_Value": 8
+        },
+        "198": {
+            "Ontological_Unit": "Tet",
+            "Probability_Amplitude": 0.9484,
+            "State_Stabilizer_Hz": 0.064114,
+            "Geometrical_Value": 9
+        },
+        "199": {
+            "Ontological_Unit": "Yod",
+            "Probability_Amplitude": 0.9484,
+            "State_Stabilizer_Hz": 0.071238,
+            "Geometrical_Value": 10
+        },
+        "200": {
+            "Ontological_Unit": "Kaf",
+            "Probability_Amplitude": 0.7081,
+            "State_Stabilizer_Hz": 0.142476,
+            "Geometrical_Value": 20
+        },
+        "201": {
+            "Ontological_Unit": "Lamed",
+            "Probability_Amplitude": 0.9991,
+            "State_Stabilizer_Hz": 0.213714,
+            "Geometrical_Value": 30
+        },
+        "202": {
+            "Ontological_Unit": "Mem",
+            "Probability_Amplitude": 0.9711,
+            "State_Stabilizer_Hz": 0.284952,
+            "Geometrical_Value": 40
+        },
+        "203": {
+            "Ontological_Unit": "Nun",
+            "Probability_Amplitude": 0.9991,
+            "State_Stabilizer_Hz": 0.35619,
+            "Geometrical_Value": 50
+        },
+        "204": {
+            "Ontological_Unit": "Samekh",
+            "Probability_Amplitude": 0.8687,
+            "State_Stabilizer_Hz": 0.427428,
+            "Geometrical_Value": 60
+        },
+        "205": {
+            "Ontological_Unit": "Ayin",
+            "Probability_Amplitude": 0.7943,
+            "State_Stabilizer_Hz": 0.498666,
+            "Geometrical_Value": 70
+        },
+        "206": {
+            "Ontological_Unit": "Pe",
+            "Probability_Amplitude": 0.8955,
+            "State_Stabilizer_Hz": 0.569903,
+            "Geometrical_Value": 80
+        },
+        "207": {
+            "Ontological_Unit": "Tsadi",
+            "Probability_Amplitude": 0.9711,
+            "State_Stabilizer_Hz": 0.641141,
+            "Geometrical_Value": 90
+        },
+        "208": {
+            "Ontological_Unit": "Qof",
+            "Probability_Amplitude": 0.6537,
+            "State_Stabilizer_Hz": 0.712379,
+            "Geometrical_Value": 100
+        },
+        "209": {
+            "Ontological_Unit": "Resh",
+            "Probability_Amplitude": 0.7943,
+            "State_Stabilizer_Hz": 1.424759,
+            "Geometrical_Value": 200
+        },
+        "210": {
+            "Ontological_Unit": "Shin",
+            "Probability_Amplitude": 0.8268,
+            "State_Stabilizer_Hz": 2.137138,
+            "Geometrical_Value": 300
+        },
+        "211": {
+            "Ontological_Unit": "Tav",
+            "Probability_Amplitude": 0.9991,
+            "State_Stabilizer_Hz": 2.849517,
+            "Geometrical_Value": 400
+        },
+        "212": {
+            "Ontological_Unit": "Kaf_Sophit",
+            "Probability_Amplitude": 0.5561,
+            "State_Stabilizer_Hz": 3.561896,
+            "Geometrical_Value": 500
+        },
+        "213": {
+            "Ontological_Unit": "Mem_Sophit",
+            "Probability_Amplitude": 0.4563,
+            "State_Stabilizer_Hz": 4.274276,
+            "Geometrical_Value": 600
+        },
+        "214": {
+            "Ontological_Unit": "Nun_Sophit",
+            "Probability_Amplitude": 0.0199,
+            "State_Stabilizer_Hz": 4.986655,
+            "Geometrical_Value": 700
+        },
+        "215": {
+            "Ontological_Unit": "Pe_Sophit",
+            "Probability_Amplitude": 0.5561,
+            "State_Stabilizer_Hz": 5.699034,
+            "Geometrical_Value": 800
+        },
+        "216": {
+            "Ontological_Unit": "Tsadi_Sophit",
+            "Probability_Amplitude": 0.3582,
+            "State_Stabilizer_Hz": 6.411414,
+            "Geometrical_Value": 900
+        },
+        "217": {
+            "Ontological_Unit": "Aleph",
+            "Probability_Amplitude": 0.8687,
+            "State_Stabilizer_Hz": 0.007124,
+            "Geometrical_Value": 1
+        },
+        "218": {
+            "Ontological_Unit": "Bet",
+            "Probability_Amplitude": 0.9834,
+            "State_Stabilizer_Hz": 0.014248,
+            "Geometrical_Value": 2
+        },
+        "219": {
+            "Ontological_Unit": "Gimel",
+            "Probability_Amplitude": 0.9284,
+            "State_Stabilizer_Hz": 0.021371,
+            "Geometrical_Value": 3
+        },
+        "220": {
+            "Ontological_Unit": "Dalet",
+            "Probability_Amplitude": 0.995,
+            "State_Stabilizer_Hz": 0.028495,
+            "Geometrical_Value": 4
+        },
+        "221": {
+            "Ontological_Unit": "He",
+            "Probability_Amplitude": 0.9834,
+            "State_Stabilizer_Hz": 0.035619,
+            "Geometrical_Value": 5
+        },
+        "222": {
+            "Ontological_Unit": "Vav",
+            "Probability_Amplitude": 0.995,
+            "State_Stabilizer_Hz": 0.042743,
+            "Geometrical_Value": 6
+        },
+        "223": {
+            "Ontological_Unit": "Zayin",
+            "Probability_Amplitude": 0.8268,
+            "State_Stabilizer_Hz": 0.049867,
+            "Geometrical_Value": 7
+        },
+        "224": {
+            "Ontological_Unit": "Het",
+            "Probability_Amplitude": 0.9711,
+            "State_Stabilizer_Hz": 0.05699,
+            "Geometrical_Value": 8
+        },
+        "225": {
+            "Ontological_Unit": "Tet",
+            "Probability_Amplitude": 0.9484,
+            "State_Stabilizer_Hz": 0.064114,
+            "Geometrical_Value": 9
+        },
+        "226": {
+            "Ontological_Unit": "Yod",
+            "Probability_Amplitude": 0.9484,
+            "State_Stabilizer_Hz": 0.071238,
+            "Geometrical_Value": 10
+        },
+        "227": {
+            "Ontological_Unit": "Kaf",
+            "Probability_Amplitude": 0.7081,
+            "State_Stabilizer_Hz": 0.142476,
+            "Geometrical_Value": 20
+        },
+        "228": {
+            "Ontological_Unit": "Lamed",
+            "Probability_Amplitude": 0.9991,
+            "State_Stabilizer_Hz": 0.213714,
+            "Geometrical_Value": 30
+        },
+        "229": {
+            "Ontological_Unit": "Mem",
+            "Probability_Amplitude": 0.9711,
+            "State_Stabilizer_Hz": 0.284952,
+            "Geometrical_Value": 40
+        },
+        "230": {
+            "Ontological_Unit": "Nun",
+            "Probability_Amplitude": 0.9991,
+            "State_Stabilizer_Hz": 0.35619,
+            "Geometrical_Value": 50
+        },
+        "231": {
+            "Ontological_Unit": "Samekh",
+            "Probability_Amplitude": 0.8687,
+            "State_Stabilizer_Hz": 0.427428,
+            "Geometrical_Value": 60
+        }
+    },
+    "timestamp": "2026-03-10T11:49:13.231959",
+    "status": "ANCHORED_AND_SYNCED"
+}
