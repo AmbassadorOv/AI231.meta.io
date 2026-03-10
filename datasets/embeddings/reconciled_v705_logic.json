@@ -5,15 +5,15 @@
     "total_gates": 231,
     "agent_registry": {
         "Notary_Alpha": {
-            "status": "INITIALIZED",
+            "status": "ACTIVE",
             "gate_range": "1-80"
         },
         "Monitor_Omega": {
-            "status": "INITIALIZED",
+            "status": "ACTIVE",
             "gate_range": "81-160"
         },
         "Registrar_SACR": {
-            "status": "INITIALIZED",
+            "status": "ACTIVE",
             "gate_range": "161-231"
         },
         "bfa16f68": {
